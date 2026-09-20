@@ -1,0 +1,1 @@
+[{"cmd":"ps aux 2>\/dev\/null | grep '[p]ython' | grep -E 'dos_mori|dos\\.py'","t":1789831335,"qid":"6aaea8a763ccc"}]

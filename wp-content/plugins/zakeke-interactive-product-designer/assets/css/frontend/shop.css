@@ -1,0 +1,31 @@
+.zakeke-cart-preview-window {
+	position: fixed;
+	top: 0;
+	left: 0;
+	width: 100%;
+	height: 100%;
+	background: rgba(0, 0, 0, 0.94);
+	z-index: 1000;
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	justify-content: center;
+	user-select: none;
+}
+
+.zakeke-cart-preview-window-label {
+	padding: 20px;
+}
+
+.zakeke-cart-preview-window-label h3 {
+	color: white;
+}
+
+.zakeke-cart-previews {
+	position: relative;
+	max-width: 260px;
+}
+
+.zakeke-cart-preview {
+	cursor: pointer;
+}

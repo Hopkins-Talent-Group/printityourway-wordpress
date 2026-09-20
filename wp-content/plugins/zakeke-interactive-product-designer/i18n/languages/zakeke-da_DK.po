@@ -1,0 +1,154 @@
+# Translation of Zakeke - WooCommerce in Danish
+# This file is distributed under the same license as the Zakeke - WooCommerce package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: +0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/2.3.1\n"
+"Language: da_DK\n"
+"Project-Id-Version: Zakeke - WooCommerce\n"
+
+#: includes/admin/class-zakeke-admin-order.php:61
+msgid "Download customization files"
+msgstr "Download tilpasningsfiler"
+
+#: includes/admin/class-zakeke-admin-order.php:64
+msgid "Customization files in processing"
+msgstr "Tilpasningsfiler under behandling"
+
+#: includes/api/class-zakeke-rest-enabled-controller.php:51
+msgid "Product id of the product that became customizable."
+msgstr "Produkt-id af produktet, der blev tilpasset."
+
+#: includes/api/class-zakeke-rest-enabled-controller.php:62
+msgid "Product id of the product that is no longer customizable."
+msgstr "Produkt-id for produktet, der ikke længere kan tilpasses."
+
+#: includes/api/class-zakeke-rest-enabled-controller.php:75
+msgid "Required to be true, as resource does not support trashing."
+msgstr "Kræves for at være sandt, da ressource ikke understøtter affald."
+
+#: includes/api/class-zakeke-rest-enabled-controller.php:94
+#: includes/api/class-zakeke-rest-settings-controller.php:62
+msgid "Sorry, you are not allowed to create resources."
+msgstr "Beklager, det er ikke tilladt at oprette ressourcer."
+
+#: includes/api/class-zakeke-rest-enabled-controller.php:111
+msgid "Sorry, you are not allowed to delete this resource."
+msgstr "Beklager, du har ikke lov til at slette denne ressource."
+
+#: includes/api/class-zakeke-rest-enabled-controller.php:191
+msgid "Product id."
+msgstr "Produkt id."
+
+#: includes/api/class-zakeke-rest-settings-controller.php:113
+msgid "Shop currency."
+msgstr "Shop valuta."
+
+#: includes/class-zakeke-cart.php:141 includes/class-zakeke-order.php:74
+msgid "Customization Price"
+msgstr "Tilpasningspris"
+
+#. #-#-#-#-#  zakeke-interactive-product-designer-code.pot (Zakeke Interactive
+#. Product Designer 1.0.8)  #-#-#-#-#
+#. Plugin Name of the plugin/theme
+#: includes/class-zakeke-integration.php:19
+msgid "Zakeke Interactive Product Designer"
+msgstr "Zakeke Interactive Product Designer"
+
+#: includes/class-zakeke-integration.php:20
+msgid "Integrate Zakeke into WooCommerce. These credentials will be used to allow the integration of Zakeke with your store. By entering your Zakeke credentials your store will be able to communicate with the Zakeke API. Please refer to the <a href=\"https://zakeke.zendesk.com/hc/en-us/sections/360004488294-WooCommerce-">Zakeke documentation</a> if you are unsure how to proceed"
+msgstr "Integrer Zakeke i WooCommerce. Disse legitimationsoplysninger vil blive brugt til at tillade integration af Zakeke med din butik. Ved at indtaste dine Zakeke legitimationsoplysninger vil din butik kunne kommunikere med Zakeke API. Se venligst <a href=\"https://zakeke.zendesk.com/hc/en-us/sections/360004488294-WooCommerce-"> Zakeke dokumentation </a>, hvis du er i tvivl om hvordan du fortsætter"
+
+#: includes/class-zakeke-integration.php:44
+msgid "Zakeke username"
+msgstr "Zakeke brugernavn"
+
+#: includes/class-zakeke-integration.php:46
+msgid "Your Zakeke account username. Need a Zakeke account? <a href=\"https://portal.zakeke.com/Admin/Register\" target=\"_blank\">Click here to get one</a>"
+msgstr "Dit Zakeke konto brugernavn. Har du brug for en Zakeke konto? <a href=\"https://portal.zakeke.com/Admin/Register\" target=\"_blank\"> Klik her for at få en </a>"
+
+#: includes/class-zakeke-integration.php:50
+msgid "Zakeke password"
+msgstr "Zakeke adgangskode"
+
+#: includes/class-zakeke-integration.php:52
+msgid "Your Zakeke account password"
+msgstr "Din Zakeke-konto adgangskode"
+
+#: includes/class-zakeke-integration.php:55
+msgid "Force product customization"
+msgstr "Force produkt tilpasning"
+
+#: includes/class-zakeke-integration.php:58
+msgid "Replace the \"Add to cart\" button with the \"Customize\" button for customizable products"
+msgstr "Udskift \"Tilføj til kurv\" -knappen med \"Tilpas\" knappen for brugerdefinerede produkter"
+
+#: includes/class-zakeke-integration.php:62
+msgid "Debug Log"
+msgstr "Fejllogbog"
+
+#: includes/class-zakeke-integration.php:64
+msgid "Enable logging"
+msgstr "Aktivér logføring"
+
+#: includes/class-zakeke-integration.php:66
+msgid "Log events such as API requests"
+msgstr "Log begivenheder som API-anmodninger"
+
+#: includes/class-zakeke-order.php:71
+msgid "Customization"
+msgstr "Tilpasning"
+
+#: includes/class-zakeke-product-page.php:61
+#: includes/class-zakeke-product-page.php:87
+#: includes/class-zakeke-product-page.php:95
+msgid "Customize"
+msgstr "Tilpas"
+
+#: zakeke.php:91 zakeke.php:99
+msgid "Cheatin&#8217; huh?"
+msgstr "Cheatin?"
+
+#. Plugin URI of the plugin/theme
+msgid "https://www.zakeke.com/"
+msgstr "https://www.zakeke.com/"
+
+#. Author URI of the plugin/theme
+msgid "https://www.zakeke.com"
+msgstr "https://www.zakeke.com"
+
+#. Author of the plugin/theme
+msgid "Zakeke"
+msgstr "Zakeke"
+
+#: zakeke.php:225
+msgid "View Zakeke documentation"
+msgstr "Se Zakeke dokumentation"
+
+#: zakeke.php:226
+msgid "Documentation"
+msgstr "Dokumentation"
+
+#: zakeke.php:227
+msgid "Register to Zakeke"
+msgstr "Tilmeld dig til Zakeke"
+
+#: zakeke.php:228
+msgid "Register to Zakeke to use the plugin"
+msgstr "Tilmeld dig Zakeke for at bruge plugin"
+
+#: zakeke.php:246
+msgid "View Zakeke settings"
+msgstr "Se Zakeke indstillinger"
+
+#: zakeke.php:247
+msgid "Settings"
+msgstr "Indstillinger"
+
+#. Description of the plugin/theme
+msgid "Innovative platform to let your customers to customize products in your e-store. Multi-language, mult-currency, 3D view and print-ready outputs."
+msgstr "Innovativ platform til at lade dine kunder tilpasse produkterne i din e-butik. Flersproget, multivalent, 3D-visning og udskriftsklar output."

@@ -1,0 +1,154 @@
+# Translation of Zakeke - WooCommerce in Catalan
+# This file is distributed under the same license as the Zakeke - WooCommerce package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: +0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/2.3.1\n"
+"Language: ca\n"
+"Project-Id-Version: Zakeke - WooCommerce\n"
+
+#: includes/admin/class-zakeke-admin-order.php:61
+msgid "Download customization files"
+msgstr "Baixeu els fitxers de personalització"
+
+#: includes/admin/class-zakeke-admin-order.php:64
+msgid "Customization files in processing"
+msgstr "Arxius de personalització en el processament"
+
+#: includes/api/class-zakeke-rest-enabled-controller.php:51
+msgid "Product id of the product that became customizable."
+msgstr "Id. De producte del producte que es va fer personalitzable."
+
+#: includes/api/class-zakeke-rest-enabled-controller.php:62
+msgid "Product id of the product that is no longer customizable."
+msgstr "Id. De producte del producte que ja no es pot personalitzar."
+
+#: includes/api/class-zakeke-rest-enabled-controller.php:75
+msgid "Required to be true, as resource does not support trashing."
+msgstr "Es requereix que sigui cert, ja que el recurs no és compatible amb l'expulsió."
+
+#: includes/api/class-zakeke-rest-enabled-controller.php:94
+#: includes/api/class-zakeke-rest-settings-controller.php:62
+msgid "Sorry, you are not allowed to create resources."
+msgstr "Ho sentim, no tens permís per crear recursos."
+
+#: includes/api/class-zakeke-rest-enabled-controller.php:111
+msgid "Sorry, you are not allowed to delete this resource."
+msgstr "Ho sentim, no tens permís per esborrar aquest recurs."
+
+#: includes/api/class-zakeke-rest-enabled-controller.php:191
+msgid "Product id."
+msgstr "Identificador del producte."
+
+#: includes/api/class-zakeke-rest-settings-controller.php:113
+msgid "Shop currency."
+msgstr "Compreu moneda."
+
+#: includes/class-zakeke-cart.php:141 includes/class-zakeke-order.php:74
+msgid "Customization Price"
+msgstr "Preu de personalització"
+
+#. #-#-#-#-#  zakeke-interactive-product-designer-code.pot (Zakeke Interactive
+#. Product Designer 1.0.8)  #-#-#-#-#
+#. Plugin Name of the plugin/theme
+#: includes/class-zakeke-integration.php:19
+msgid "Zakeke Interactive Product Designer"
+msgstr "Dissenyador interactiu de productes Zakeke"
+
+#: includes/class-zakeke-integration.php:20
+msgid "Integrate Zakeke into WooCommerce. These credentials will be used to allow the integration of Zakeke with your store. By entering your Zakeke credentials your store will be able to communicate with the Zakeke API. Please refer to the <a href=\"https://zakeke.zendesk.com/hc/en-us/sections/360004488294-WooCommerce-">Zakeke documentation</a> if you are unsure how to proceed"
+msgstr "Integreu Zakeke a WooCommerce. Aquestes credencials s'utilitzaran per permetre la integració de Zakeke amb la vostra botiga. En introduir les credencials de Zakeke, la vostra botiga es podrà comunicar amb l'API de Zakeke. Consulteu la <a href=\"https://zakeke.zendesk.com/hc/en-us/sections/360004488294-WooCommerce-"> documentació de Zakeke </a> si no esteu segur de com procedir"
+
+#: includes/class-zakeke-integration.php:44
+msgid "Zakeke username"
+msgstr "Nom d'usuari de Zakeke"
+
+#: includes/class-zakeke-integration.php:46
+msgid "Your Zakeke account username. Need a Zakeke account? <a href=\"https://portal.zakeke.com/Admin/Register\" target=\"_blank\">Click here to get one</a>"
+msgstr "El vostre nom d'usuari del compte de Zakeke. Necessites un compte de Zakeke? <a href=\"https://portal.zakeke.com/Admin/Register\" target=\"_blank\"> Feu clic aquí per obtenir-ne un </a>"
+
+#: includes/class-zakeke-integration.php:50
+msgid "Zakeke password"
+msgstr "Contrasenya de Zakeke"
+
+#: includes/class-zakeke-integration.php:52
+msgid "Your Zakeke account password"
+msgstr "La vostra contrasenya del compte de Zakeke"
+
+#: includes/class-zakeke-integration.php:55
+msgid "Force product customization"
+msgstr "Forçar la personalització del producte"
+
+#: includes/class-zakeke-integration.php:58
+msgid "Replace the \"Add to cart\" button with the \"Customize\" button for customizable products"
+msgstr "Reemplaceu el botó \"Afegeix al carretó\" amb el botó \"Personalitza\" per a productes personalitzables"
+
+#: includes/class-zakeke-integration.php:62
+msgid "Debug Log"
+msgstr "Registre de depuració"
+
+#: includes/class-zakeke-integration.php:64
+msgid "Enable logging"
+msgstr "Activa el registre"
+
+#: includes/class-zakeke-integration.php:66
+msgid "Log events such as API requests"
+msgstr "Registreu esdeveniments com ara sol·licituds d'API"
+
+#: includes/class-zakeke-order.php:71
+msgid "Customization"
+msgstr "Personalització"
+
+#: includes/class-zakeke-product-page.php:61
+#: includes/class-zakeke-product-page.php:87
+#: includes/class-zakeke-product-page.php:95
+msgid "Customize"
+msgstr "Personalitza"
+
+#: zakeke.php:91 zakeke.php:99
+msgid "Cheatin&#8217; huh?"
+msgstr "Cheatinà?"
+
+#. Plugin URI of the plugin/theme
+msgid "https://www.zakeke.com/"
+msgstr "Https://www.zakeke.com/"
+
+#. Author URI of the plugin/theme
+msgid "https://www.zakeke.com"
+msgstr "Https://www.zakeke.com"
+
+#. Author of the plugin/theme
+msgid "Zakeke"
+msgstr "Zakeke"
+
+#: zakeke.php:225
+msgid "View Zakeke documentation"
+msgstr "Vegeu la documentació de Zakeke"
+
+#: zakeke.php:226
+msgid "Documentation"
+msgstr "Documentació"
+
+#: zakeke.php:227
+msgid "Register to Zakeke"
+msgstr "Registreu-vos a Zakeke"
+
+#: zakeke.php:228
+msgid "Register to Zakeke to use the plugin"
+msgstr "Registre a Zakeke per utilitzar el connector"
+
+#: zakeke.php:246
+msgid "View Zakeke settings"
+msgstr "Mostra la configuració de Zakeke"
+
+#: zakeke.php:247
+msgid "Settings"
+msgstr "Configuració"
+
+#. Description of the plugin/theme
+msgid "Innovative platform to let your customers to customize products in your e-store. Multi-language, mult-currency, 3D view and print-ready outputs."
+msgstr "Plataforma innovadora per permetre als vostres clients personalitzar productes a la vostra botiga electrònica. Visualització multilingüe, multivarietat, 3D i productes preparats per imprimir."

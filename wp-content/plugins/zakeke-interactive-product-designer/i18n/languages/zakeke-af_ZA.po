@@ -1,0 +1,154 @@
+# Translation of Zakeke - WooCommerce in Afrikaans
+# This file is distributed under the same license as the Zakeke - WooCommerce package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: +0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/2.3.1\n"
+"Language: af_ZA\n"
+"Project-Id-Version: Zakeke - WooCommerce\n"
+
+#: includes/admin/class-zakeke-admin-order.php:61
+msgid "Download customization files"
+msgstr "Laai aanpassingslêers af"
+
+#: includes/admin/class-zakeke-admin-order.php:64
+msgid "Customization files in processing"
+msgstr "Pasmaaklêers in verwerking"
+
+#: includes/api/class-zakeke-rest-enabled-controller.php:51
+msgid "Product id of the product that became customizable."
+msgstr "Produk-ID van die produk wat aanpasbaar geword het."
+
+#: includes/api/class-zakeke-rest-enabled-controller.php:62
+msgid "Product id of the product that is no longer customizable."
+msgstr "Produk-ID van die produk wat nie meer aanpasbaar is nie."
+
+#: includes/api/class-zakeke-rest-enabled-controller.php:75
+msgid "Required to be true, as resource does not support trashing."
+msgstr "Vereis om waar te wees, aangesien hulpbron nie die vulling dra nie."
+
+#: includes/api/class-zakeke-rest-enabled-controller.php:94
+#: includes/api/class-zakeke-rest-settings-controller.php:62
+msgid "Sorry, you are not allowed to create resources."
+msgstr "Jammer, jy mag nie hulpbronne skep nie."
+
+#: includes/api/class-zakeke-rest-enabled-controller.php:111
+msgid "Sorry, you are not allowed to delete this resource."
+msgstr "Jammer, jy mag nie hierdie bron verwyder nie."
+
+#: includes/api/class-zakeke-rest-enabled-controller.php:191
+msgid "Product id."
+msgstr "Produk-ID."
+
+#: includes/api/class-zakeke-rest-settings-controller.php:113
+msgid "Shop currency."
+msgstr "Winkel geldeenheid."
+
+#: includes/class-zakeke-cart.php:141 includes/class-zakeke-order.php:74
+msgid "Customization Price"
+msgstr "Aanpassingsprys"
+
+#. #-#-#-#-#  zakeke-interactive-product-designer-code.pot (Zakeke Interactive
+#. Product Designer 1.0.8)  #-#-#-#-#
+#. Plugin Name of the plugin/theme
+#: includes/class-zakeke-integration.php:19
+msgid "Zakeke Interactive Product Designer"
+msgstr "Zakeke Interactive Product Designer"
+
+#: includes/class-zakeke-integration.php:20
+msgid "Integrate Zakeke into WooCommerce. These credentials will be used to allow the integration of Zakeke with your store. By entering your Zakeke credentials your store will be able to communicate with the Zakeke API. Please refer to the <a href=\"https://zakeke.zendesk.com/hc/en-us/sections/360004488294-WooCommerce-">Zakeke documentation</a> if you are unsure how to proceed"
+msgstr "Integreer Zakeke in WooCommerce. Hierdie credentials sal gebruik word om die integrasie van Zakeke met u winkel toe te laat. Deur jou Zakeke-credentials in te voer, sal jou winkel met die Zakeke API kan kommunikeer. Raadpleeg asseblief die <a href=\"https://zakeke.zendesk.com/hc/en-us/sections/360004488294-WooCommerce-"> Zakeke dokumentasie </a> as jy nie seker is hoe om voort te gaan nie."
+
+#: includes/class-zakeke-integration.php:44
+msgid "Zakeke username"
+msgstr "Zakeke gebruikersnaam"
+
+#: includes/class-zakeke-integration.php:46
+msgid "Your Zakeke account username. Need a Zakeke account? <a href=\"https://portal.zakeke.com/Admin/Register\" target=\"_blank\">Click here to get one</a>"
+msgstr "Jou Zakeke rekening gebruikersnaam. Het u 'n Zakeke rekening nodig? <a href=\"https://portal.zakeke.com/Admin/Register\" target=\"_blank\"> Klik hier om een ​​te kry </a>"
+
+#: includes/class-zakeke-integration.php:50
+msgid "Zakeke password"
+msgstr "Zakeke wagwoord"
+
+#: includes/class-zakeke-integration.php:52
+msgid "Your Zakeke account password"
+msgstr "Jou Zakeke rekening wagwoord"
+
+#: includes/class-zakeke-integration.php:55
+msgid "Force product customization"
+msgstr "Force produk aanpassing"
+
+#: includes/class-zakeke-integration.php:58
+msgid "Replace the \"Add to cart\" button with the \"Customize\" button for customizable products"
+msgstr "Vervang die \"Add to cart\" knoppie met die \"Pasmaak\" knoppie vir aanpasbare produkte"
+
+#: includes/class-zakeke-integration.php:62
+msgid "Debug Log"
+msgstr "Debug Log"
+
+#: includes/class-zakeke-integration.php:64
+msgid "Enable logging"
+msgstr "Aktiveer aanmelding"
+
+#: includes/class-zakeke-integration.php:66
+msgid "Log events such as API requests"
+msgstr "Teken gebeurtenisse soos API-versoeke"
+
+#: includes/class-zakeke-order.php:71
+msgid "Customization"
+msgstr "Aanpassing"
+
+#: includes/class-zakeke-product-page.php:61
+#: includes/class-zakeke-product-page.php:87
+#: includes/class-zakeke-product-page.php:95
+msgid "Customize"
+msgstr "pas"
+
+#: zakeke.php:91 zakeke.php:99
+msgid "Cheatin&#8217; huh?"
+msgstr "Cheatinâ € ™ huh?"
+
+#. Plugin URI of the plugin/theme
+msgid "https://www.zakeke.com/"
+msgstr "https://www.zakeke.com/"
+
+#. Author URI of the plugin/theme
+msgid "https://www.zakeke.com"
+msgstr "https://www.zakeke.com"
+
+#. Author of the plugin/theme
+msgid "Zakeke"
+msgstr "Zakeke"
+
+#: zakeke.php:225
+msgid "View Zakeke documentation"
+msgstr "Bekyk Zakeke dokumentasie"
+
+#: zakeke.php:226
+msgid "Documentation"
+msgstr "dokumentasie"
+
+#: zakeke.php:227
+msgid "Register to Zakeke"
+msgstr "Registreer aan Zakeke"
+
+#: zakeke.php:228
+msgid "Register to Zakeke to use the plugin"
+msgstr "Teken in op Zakeke om die prop te gebruik"
+
+#: zakeke.php:246
+msgid "View Zakeke settings"
+msgstr "Bekyk Zakeke-instellings"
+
+#: zakeke.php:247
+msgid "Settings"
+msgstr "instellings"
+
+#. Description of the plugin/theme
+msgid "Innovative platform to let your customers to customize products in your e-store. Multi-language, mult-currency, 3D view and print-ready outputs."
+msgstr "Innoverende platform om jou kliënte in staat te stel om produkte in jou e-winkel aan te pas. Multi-taal, multi-valuta, 3D-uitsig en druk-gereed uitsette."

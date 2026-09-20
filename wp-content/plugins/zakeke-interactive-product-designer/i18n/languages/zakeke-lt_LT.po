@@ -1,0 +1,154 @@
+# Translation of Zakeke - WooCommerce in Lithuanian
+# This file is distributed under the same license as the Zakeke - WooCommerce package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: +0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Generator: GlotPress/2.3.1\n"
+"Language: lt\n"
+"Project-Id-Version: Zakeke - WooCommerce\n"
+
+#: includes/admin/class-zakeke-admin-order.php:61
+msgid "Download customization files"
+msgstr "Atsisiųskite tinkinimo failus"
+
+#: includes/admin/class-zakeke-admin-order.php:64
+msgid "Customization files in processing"
+msgstr "Apdorojimo pritaikymo failai"
+
+#: includes/api/class-zakeke-rest-enabled-controller.php:51
+msgid "Product id of the product that became customizable."
+msgstr "Produkto produkto ID, kuris tapo pritaikomas."
+
+#: includes/api/class-zakeke-rest-enabled-controller.php:62
+msgid "Product id of the product that is no longer customizable."
+msgstr "Produkto identifikatorius produktams, kurie jau nebebūtų pritaikomi."
+
+#: includes/api/class-zakeke-rest-enabled-controller.php:75
+msgid "Required to be true, as resource does not support trashing."
+msgstr "Būtina būti tiesa, nes ištekliai nepalaiko gabenimo."
+
+#: includes/api/class-zakeke-rest-enabled-controller.php:94
+#: includes/api/class-zakeke-rest-settings-controller.php:62
+msgid "Sorry, you are not allowed to create resources."
+msgstr "Atsiprašome, jums neleidžiama kurti išteklių."
+
+#: includes/api/class-zakeke-rest-enabled-controller.php:111
+msgid "Sorry, you are not allowed to delete this resource."
+msgstr "Atsiprašome, jums neleidžiama ištrinti šio šaltinio."
+
+#: includes/api/class-zakeke-rest-enabled-controller.php:191
+msgid "Product id."
+msgstr "Produkto ID."
+
+#: includes/api/class-zakeke-rest-settings-controller.php:113
+msgid "Shop currency."
+msgstr "Parduotuvės valiuta."
+
+#: includes/class-zakeke-cart.php:141 includes/class-zakeke-order.php:74
+msgid "Customization Price"
+msgstr "Pritaikymo kaina"
+
+#. #-#-#-#-#  zakeke-interactive-product-designer-code.pot (Zakeke Interactive
+#. Product Designer 1.0.8)  #-#-#-#-#
+#. Plugin Name of the plugin/theme
+#: includes/class-zakeke-integration.php:19
+msgid "Zakeke Interactive Product Designer"
+msgstr "\"Zakeke\" interaktyvus gaminio dizaineris"
+
+#: includes/class-zakeke-integration.php:20
+msgid "Integrate Zakeke into WooCommerce. These credentials will be used to allow the integration of Zakeke with your store. By entering your Zakeke credentials your store will be able to communicate with the Zakeke API. Please refer to the <a href=\"https://zakeke.zendesk.com/hc/en-us/sections/360004488294-WooCommerce-">Zakeke documentation</a> if you are unsure how to proceed"
+msgstr "\"Zakeke\" integruokite į \"WooCommerce\". Šie įgaliojimai bus naudojami, kad Zakeke būtų galima integruoti į jūsų parduotuvę. Įvesdami savo Zakeke įgaliojimus, parduotuvė galės bendrauti su \"Zakeke\" API. Žr <a href=\"https://zakeke.zendesk.com/hc/en-us/sections/360004488294-WooCommerce-"> \"Zakeke\" dokumentaciją </a>, jei nesate tikri, kaip tęsti"
+
+#: includes/class-zakeke-integration.php:44
+msgid "Zakeke username"
+msgstr "Zakeke vartotojo vardas"
+
+#: includes/class-zakeke-integration.php:46
+msgid "Your Zakeke account username. Need a Zakeke account? <a href=\"https://portal.zakeke.com/Admin/Register\" target=\"_blank\">Click here to get one</a>"
+msgstr "Jūsų \"Zakeke\" paskyros naudotojo vardas. Reikia Zakeke paskyros? <a href=\"https://portal.zakeke.com/Admin/Register\" target=\"_blank\"> Spustelėkite čia norėdami gauti </a>"
+
+#: includes/class-zakeke-integration.php:50
+msgid "Zakeke password"
+msgstr "Zakeke slaptažodį"
+
+#: includes/class-zakeke-integration.php:52
+msgid "Your Zakeke account password"
+msgstr "Jūsų \"Zakeke\" paskyros slaptažodis"
+
+#: includes/class-zakeke-integration.php:55
+msgid "Force product customization"
+msgstr "Priversti produktą pritaikyti"
+
+#: includes/class-zakeke-integration.php:58
+msgid "Replace the \"Add to cart\" button with the \"Customize\" button for customizable products"
+msgstr "Pakeiskite mygtuką \"Įdėti į krepšelį\" su \"Customize\" mygtuku pritaikomiems produktams"
+
+#: includes/class-zakeke-integration.php:62
+msgid "Debug Log"
+msgstr "Derinimo žurnalas"
+
+#: includes/class-zakeke-integration.php:64
+msgid "Enable logging"
+msgstr "Įgalinti registravimą"
+
+#: includes/class-zakeke-integration.php:66
+msgid "Log events such as API requests"
+msgstr "Įrašykite įvykius, pvz., API užklausas"
+
+#: includes/class-zakeke-order.php:71
+msgid "Customization"
+msgstr "Pritaikymas"
+
+#: includes/class-zakeke-product-page.php:61
+#: includes/class-zakeke-product-page.php:87
+#: includes/class-zakeke-product-page.php:95
+msgid "Customize"
+msgstr "Pritaikyti"
+
+#: zakeke.php:91 zakeke.php:99
+msgid "Cheatin&#8217; huh?"
+msgstr "Cheatinâ € ™ huh?"
+
+#. Plugin URI of the plugin/theme
+msgid "https://www.zakeke.com/"
+msgstr "Https://www.zakeke.com/"
+
+#. Author URI of the plugin/theme
+msgid "https://www.zakeke.com"
+msgstr "Https://www.zakeke.com"
+
+#. Author of the plugin/theme
+msgid "Zakeke"
+msgstr "Zakeke"
+
+#: zakeke.php:225
+msgid "View Zakeke documentation"
+msgstr "Žiūrėti \"Zakeke\" dokumentaciją"
+
+#: zakeke.php:226
+msgid "Documentation"
+msgstr "Dokumentacija"
+
+#: zakeke.php:227
+msgid "Register to Zakeke"
+msgstr "Registruotis Zakeke"
+
+#: zakeke.php:228
+msgid "Register to Zakeke to use the plugin"
+msgstr "Registruotis Zakeke naudoti papildinį"
+
+#: zakeke.php:246
+msgid "View Zakeke settings"
+msgstr "Peržiūrėkite Zakeke nustatymus"
+
+#: zakeke.php:247
+msgid "Settings"
+msgstr "Nustatymai"
+
+#. Description of the plugin/theme
+msgid "Innovative platform to let your customers to customize products in your e-store. Multi-language, mult-currency, 3D view and print-ready outputs."
+msgstr "Naujoviška platforma, leidžianti klientams tinkinti produktus el. Parduotuvėje. Daugiakalbė, daugybinė valiuta, trimatis vaizdas ir spausdinimo išvestis."

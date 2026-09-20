@@ -1,0 +1,154 @@
+# Translation of Zakeke - WooCommerce in Japanese
+# This file is distributed under the same license as the Zakeke - WooCommerce package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: +0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: GlotPress/2.3.1\n"
+"Language: ja_JP\n"
+"Project-Id-Version: Zakeke - WooCommerce\n"
+
+#: includes/admin/class-zakeke-admin-order.php:61
+msgid "Download customization files"
+msgstr "カスタマイズファイルをダウンロードする"
+
+#: includes/admin/class-zakeke-admin-order.php:64
+msgid "Customization files in processing"
+msgstr "処理時のカスタマイズファイル"
+
+#: includes/api/class-zakeke-rest-enabled-controller.php:51
+msgid "Product id of the product that became customizable."
+msgstr "カスタマイズ可能になった製品の製品ID。"
+
+#: includes/api/class-zakeke-rest-enabled-controller.php:62
+msgid "Product id of the product that is no longer customizable."
+msgstr "カスタマイズできなくなった製品の製品ID。"
+
+#: includes/api/class-zakeke-rest-enabled-controller.php:75
+msgid "Required to be true, as resource does not support trashing."
+msgstr "リソースは廃棄をサポートしていないため、必須です。"
+
+#: includes/api/class-zakeke-rest-enabled-controller.php:94
+#: includes/api/class-zakeke-rest-settings-controller.php:62
+msgid "Sorry, you are not allowed to create resources."
+msgstr "申し訳ありませんが、あなたはリソースを作成することはできません。"
+
+#: includes/api/class-zakeke-rest-enabled-controller.php:111
+msgid "Sorry, you are not allowed to delete this resource."
+msgstr "申し訳ありませんが、このリソースを削除することはできません。"
+
+#: includes/api/class-zakeke-rest-enabled-controller.php:191
+msgid "Product id."
+msgstr "製品番号。"
+
+#: includes/api/class-zakeke-rest-settings-controller.php:113
+msgid "Shop currency."
+msgstr "ショップ通貨。"
+
+#: includes/class-zakeke-cart.php:141 includes/class-zakeke-order.php:74
+msgid "Customization Price"
+msgstr "カスタマイズ価格"
+
+#. #-#-#-#-#  zakeke-interactive-product-designer-code.pot (Zakeke Interactive
+#. Product Designer 1.0.8)  #-#-#-#-#
+#. Plugin Name of the plugin/theme
+#: includes/class-zakeke-integration.php:19
+msgid "Zakeke Interactive Product Designer"
+msgstr "Zakeke Interactiveプロダクトデザイナー"
+
+#: includes/class-zakeke-integration.php:20
+msgid "Integrate Zakeke into WooCommerce. These credentials will be used to allow the integration of Zakeke with your store. By entering your Zakeke credentials your store will be able to communicate with the Zakeke API. Please refer to the <a href=\"https://zakeke.zendesk.com/hc/en-us/sections/360004488294-WooCommerce-">Zakeke documentation</a> if you are unsure how to proceed"
+msgstr "WakeCommerceにZakekeを統合するこれらの資格情報は、あなたの店舗とZakekeの統合を可能にするために使用されます。あなたのZakeke認証情報を入力することで、あなたの店はZakeke APIと通信できます。続行方法がわからない場合は、<a href=\"https://zakeke.zendesk.com/hc/en-us/sections/360004488294-WooCommerce-"> Zakekeのドキュメント</a>を参照してください。"
+
+#: includes/class-zakeke-integration.php:44
+msgid "Zakeke username"
+msgstr "Zakekeユーザー名"
+
+#: includes/class-zakeke-integration.php:46
+msgid "Your Zakeke account username. Need a Zakeke account? <a href=\"https://portal.zakeke.com/Admin/Register\" target=\"_blank\">Click here to get one</a>"
+msgstr "あなたのZakekeアカウントのユーザー名。 Zakekeアカウントが必要ですか？ <a href=\"https://portal.zakeke.com/Admin/Register\" target=\"_blank\">こちらをクリックしてください</a>"
+
+#: includes/class-zakeke-integration.php:50
+msgid "Zakeke password"
+msgstr "Zakekeのパスワード"
+
+#: includes/class-zakeke-integration.php:52
+msgid "Your Zakeke account password"
+msgstr "あなたのZakekeアカウントのパスワード"
+
+#: includes/class-zakeke-integration.php:55
+msgid "Force product customization"
+msgstr "製品のカスタマイズを強制する"
+
+#: includes/class-zakeke-integration.php:58
+msgid "Replace the \"Add to cart\" button with the \"Customize\" button for customizable products"
+msgstr "カスタマイズ可能な製品の場合は、[カートに追加]ボタンを[カスタマイズ]ボタンに置​​き換えます。"
+
+#: includes/class-zakeke-integration.php:62
+msgid "Debug Log"
+msgstr "デバッグログ"
+
+#: includes/class-zakeke-integration.php:64
+msgid "Enable logging"
+msgstr "ロギングを有効にします"
+
+#: includes/class-zakeke-integration.php:66
+msgid "Log events such as API requests"
+msgstr "APIリクエストなどのイベントを記録する"
+
+#: includes/class-zakeke-order.php:71
+msgid "Customization"
+msgstr "カスタマイズ"
+
+#: includes/class-zakeke-product-page.php:61
+#: includes/class-zakeke-product-page.php:87
+#: includes/class-zakeke-product-page.php:95
+msgid "Customize"
+msgstr "カスタマイズ"
+
+#: zakeke.php:91 zakeke.php:99
+msgid "Cheatin&#8217; huh?"
+msgstr "Cheatinâ€™ハァッ？"
+
+#. Plugin URI of the plugin/theme
+msgid "https://www.zakeke.com/"
+msgstr "https://www.zakeke.com/"
+
+#. Author URI of the plugin/theme
+msgid "https://www.zakeke.com"
+msgstr "https://www.zakeke.com"
+
+#. Author of the plugin/theme
+msgid "Zakeke"
+msgstr "ゼケケ"
+
+#: zakeke.php:225
+msgid "View Zakeke documentation"
+msgstr "Zakekeのドキュメントを見る"
+
+#: zakeke.php:226
+msgid "Documentation"
+msgstr "ドキュメンテーション"
+
+#: zakeke.php:227
+msgid "Register to Zakeke"
+msgstr "Zakekeに登録する"
+
+#: zakeke.php:228
+msgid "Register to Zakeke to use the plugin"
+msgstr "プラグインを使用するためにZakekeに登録する"
+
+#: zakeke.php:246
+msgid "View Zakeke settings"
+msgstr "Zakeke設定を表示する"
+
+#: zakeke.php:247
+msgid "Settings"
+msgstr "設定"
+
+#. Description of the plugin/theme
+msgid "Innovative platform to let your customers to customize products in your e-store. Multi-language, mult-currency, 3D view and print-ready outputs."
+msgstr "革新的なプラットフォームにより、顧客はe-storeで製品をカスタマイズできます。多言語、多通貨、3Dビュー、印刷可能な出力"

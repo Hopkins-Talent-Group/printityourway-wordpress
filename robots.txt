@@ -1,0 +1,7 @@
+User-agent: *
+Allow: /
+sitemap: https://printityourway.com/sitemap218.xml
+sitemap: https://printityourway.com/sitemap187.xml
+sitemap: https://printityourway.com/sitemap88.xml
+sitemap: https://printityourway.com/sitemap13.xml
+sitemap: https://printityourway.com/sitemap11.xml

@@ -1,0 +1,154 @@
+# Translation of Zakeke - WooCommerce in Italian
+# This file is distributed under the same license as the Zakeke - WooCommerce package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2017-08-18 20:19:13+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/2.3.1\n"
+"Language: it\n"
+"Project-Id-Version: Zakeke - WooCommerce\n"
+
+#: includes/admin/class-zakeke-admin-order.php:61
+msgid "Download customization files"
+msgstr "Scarica i file della personalizzazione"
+
+#: includes/admin/class-zakeke-admin-order.php:64
+msgid "Customization files in processing"
+msgstr "File della personalizzazione in elaborazione"
+
+#: includes/api/class-zakeke-rest-enabled-controller.php:51
+msgid "Product id of the product that became customizable."
+msgstr "ID prodotto del prodotto che è stato reso personalizzabile."
+
+#: includes/api/class-zakeke-rest-enabled-controller.php:62
+msgid "Product id of the product that is no longer customizable."
+msgstr "ID prodotto del prodotto non più personalizzabile."
+
+#: includes/api/class-zakeke-rest-enabled-controller.php:75
+msgid "Required to be true, as resource does not support trashing."
+msgstr "Required to be true, as resource does not support trashing."
+
+#: includes/api/class-zakeke-rest-enabled-controller.php:94
+#: includes/api/class-zakeke-rest-settings-controller.php:62
+msgid "Sorry, you are not allowed to create resources."
+msgstr "Spiacenti, non è consentito creare risorse."
+
+#: includes/api/class-zakeke-rest-enabled-controller.php:111
+msgid "Sorry, you are not allowed to delete this resource."
+msgstr "Spiacenti, non è consentito eliminare questa risorsa."
+
+#: includes/api/class-zakeke-rest-enabled-controller.php:191
+msgid "Product id."
+msgstr "Codice prodotto."
+
+#: includes/api/class-zakeke-rest-settings-controller.php:113
+msgid "Shop currency."
+msgstr "Valuta del negozio."
+
+#: includes/class-zakeke-cart.php:141 includes/class-zakeke-order.php:74
+msgid "Customization Price"
+msgstr "Prezzo personalizzazione"
+
+#. #-#-#-#-#  zakeke-interactive-product-designer-code.pot (Zakeke Interactive
+#. Product Designer 1.0.8)  #-#-#-#-#
+#. Plugin Name of the plugin/theme
+#: includes/class-zakeke-integration.php:19
+msgid "Zakeke Interactive Product Designer"
+msgstr "Zakeke Interactive Product Designer"
+
+#: includes/class-zakeke-integration.php:20
+msgid "Integrate Zakeke into WooCommerce. These credentials will be used to allow the integration of Zakeke with your store. By entering your Zakeke credentials your store will be able to communicate with the Zakeke API. Please refer to the <a href=\"https://zakeke.zendesk.com/hc/en-us/sections/360004488294-WooCommerce-">Zakeke documentation</a> if you are unsure how to proceed"
+msgstr "Integra Zakeke in WooCommerce. Queste credenziali verranno utilizzate per consentire l'integrazione di Zakeke con il tuo store. Inserendo le credenziali di Zakeke il tuo store sarà in grado di comunicare con l'API di Zakeke. Fare riferimento alla <a href=\"https://zakeke.zendesk.com/hc/en-us/sections/360004488294-WooCommerce-">documentazione di Zakeke</a> se non siete sicuri di come procedere"
+
+#: includes/class-zakeke-integration.php:44
+msgid "Zakeke username"
+msgstr "Username Zakeke "
+
+#: includes/class-zakeke-integration.php:46
+msgid "Your Zakeke account username. Need a Zakeke account? <a href=\"https://portal.zakeke.com/Admin/Register\" target=\"_blank\">Click here to get one</a>"
+msgstr "Il tuo nome utente dell'account Zakeke. Non hai un account Zakeke? <a href=\"https://portal.zakeke.com/Admin/Register\" target=\"_blank\">Clicca qui per ottenere uno</a>"
+
+#: includes/class-zakeke-integration.php:50
+msgid "Zakeke password"
+msgstr "Password Zakeke"
+
+#: includes/class-zakeke-integration.php:52
+msgid "Your Zakeke account password"
+msgstr "La password del tuo account Zakeke"
+
+#: includes/class-zakeke-integration.php:55
+msgid "Force product customization"
+msgstr "Forza la personalizzazione del prodotto"
+
+#: includes/class-zakeke-integration.php:58
+msgid "Replace the \"Add to cart\" button with the \"Customize\" button for customizable products"
+msgstr "Sostituisci il pulsante \"Aggiungi al carrello\" con il pulsante \"Personalizza\" per i prodotti personalizzabili"
+
+#: includes/class-zakeke-integration.php:62
+msgid "Debug Log"
+msgstr "Debug Log"
+
+#: includes/class-zakeke-integration.php:64
+msgid "Enable logging"
+msgstr "Abilita i log"
+
+#: includes/class-zakeke-integration.php:66
+msgid "Log events such as API requests"
+msgstr "Esegui il log di eventi come le richieste API"
+
+#: includes/class-zakeke-order.php:71
+msgid "Customization"
+msgstr "Personalizzazione"
+
+#: includes/class-zakeke-product-page.php:61
+#: includes/class-zakeke-product-page.php:87
+#: includes/class-zakeke-product-page.php:95
+msgid "Customize"
+msgstr "Personalizza"
+
+#: zakeke.php:91 zakeke.php:99
+msgid "Cheatin&#8217; huh?"
+msgstr "Cheatin&#8217; huh?"
+
+#. Plugin URI of the plugin/theme
+msgid "https://www.zakeke.com/"
+msgstr "https://www.zakeke.com/"
+
+#. Author URI of the plugin/theme
+msgid "https://www.zakeke.com"
+msgstr "https://www.zakeke.com"
+
+#. Author of the plugin/theme
+msgid "Zakeke"
+msgstr "Zakeke"
+
+#: zakeke.php:225
+msgid "View Zakeke documentation"
+msgstr "Visualizza la documentazione di Zakeke"
+
+#: zakeke.php:226
+msgid "Documentation"
+msgstr "Documentazione"
+
+#: zakeke.php:227
+msgid "Register to Zakeke"
+msgstr "Registrati a Zakeke"
+
+#: zakeke.php:228
+msgid "Register to Zakeke to use the plugin"
+msgstr "Registrati su Zakeke per utilizzare il plugin"
+
+#: zakeke.php:246
+msgid "View Zakeke settings"
+msgstr "Visualizza le impostazioni di Zakeke"
+
+#: zakeke.php:247
+msgid "Settings"
+msgstr "impostazioni"
+
+#. Description of the plugin/theme
+msgid "Innovative platform to let your customers to customize products in your e-store. Multi-language, mult-currency, 3D view and print-ready outputs."
+msgstr "Piattaforma innovativa per consentire ai clienti di personalizzare i prodotti nel tuo e-store. Multi lingua, multi valuta, visualizzazione 3D e file pronti alla stampa."

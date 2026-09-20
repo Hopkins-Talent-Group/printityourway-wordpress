@@ -1,0 +1,65 @@
+// ------------------------------------------------------------------------------------------------
+// TABLE CONTROLS
+// ------------------------------------------------------------------------------------------------
+
+@if $cont-table-control {
+
+	.xts-table-controls {
+		display: flex;
+		margin-bottom: 10px;
+		gap: 15px;
+
+		input,
+		select,
+		.select2 {
+			max-width: 100% !important;
+		}
+	}
+
+	.xts-table-heading {
+
+		label {
+			font-weight: 600;
+		}
+	}
+
+	//**** NOT FREQUENTLY BOUGHT TOGETHER ****//
+
+	body:not(.post-type-woodmart_woo_fbt) {
+
+		.xts-table-controls {
+
+			> div {
+
+				&:not(.xts-close) {
+					// max-width: var(--xts-input-width);
+					max-width: calc(33% - 25px);
+					width: 100%;
+				}
+			}
+
+			.xts-close {
+				min-width: 40px;
+				margin-inline-start: auto;
+			}
+		}
+	}
+
+	//**** ESTIMATE DELIVERY ****//
+
+	[class*="xts-condition-day"] {
+		display: flex;
+		align-items: center;
+		gap: 10px;
+
+		label {
+			min-width: 60px;
+		}
+
+		input {
+			width: 50px !important;
+			flex-basis: 100%;
+		}
+	}
+
+} // END IF

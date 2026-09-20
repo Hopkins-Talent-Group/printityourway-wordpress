@@ -1,0 +1,22 @@
+#zakeke-container {
+	width: 100%;
+}
+
+#zakeke-frame {
+	width: 100%;
+	border: 0;
+	overflow: hidden;
+}
+
+@media (min-width: 769px) {
+	#zakeke-frame {
+		min-height: 719px;
+		height: 80vh;
+	}
+}
+
+@media (max-width: 768px) {
+	#zakeke-frame {
+		height: 80vh;
+	}
+}

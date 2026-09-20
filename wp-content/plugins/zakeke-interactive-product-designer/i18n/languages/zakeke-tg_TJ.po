@@ -1,0 +1,154 @@
+# Translation of Zakeke - WooCommerce in Tajik
+# This file is distributed under the same license as the Zakeke - WooCommerce package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: +0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/2.3.1\n"
+"Language: tg\n"
+"Project-Id-Version: Zakeke - WooCommerce\n"
+
+#: includes/admin/class-zakeke-admin-order.php:61
+msgid "Download customization files"
+msgstr "Бор кардани файлҳои мутобиқсозӣ"
+
+#: includes/admin/class-zakeke-admin-order.php:64
+msgid "Customization files in processing"
+msgstr "Файлҳои мутобиқсозӣ дар коркард"
+
+#: includes/api/class-zakeke-rest-enabled-controller.php:51
+msgid "Product id of the product that became customizable."
+msgstr "Истеҳсоли маҳсулоти маҳсулоте, ки customizable шуд."
+
+#: includes/api/class-zakeke-rest-enabled-controller.php:62
+msgid "Product id of the product that is no longer customizable."
+msgstr "Рамзгузории маҳсулоте, ки ҳоло ғайриимкон аст."
+
+#: includes/api/class-zakeke-rest-enabled-controller.php:75
+msgid "Required to be true, as resource does not support trashing."
+msgstr "Талабот бояд дуруст бошад, чунки захираҳо тозагӣ дастгирӣ намекунад."
+
+#: includes/api/class-zakeke-rest-enabled-controller.php:94
+#: includes/api/class-zakeke-rest-settings-controller.php:62
+msgid "Sorry, you are not allowed to create resources."
+msgstr "Мутаассифона, шумо иҷозати эҷоди захираҳо надоред."
+
+#: includes/api/class-zakeke-rest-enabled-controller.php:111
+msgid "Sorry, you are not allowed to delete this resource."
+msgstr "Мутаассифона, шумо ин манбаъро нест карда наметавонед."
+
+#: includes/api/class-zakeke-rest-enabled-controller.php:191
+msgid "Product id."
+msgstr "Рамзи маҳсулот."
+
+#: includes/api/class-zakeke-rest-settings-controller.php:113
+msgid "Shop currency."
+msgstr "Пули нақд."
+
+#: includes/class-zakeke-cart.php:141 includes/class-zakeke-order.php:74
+msgid "Customization Price"
+msgstr "Нархсозии фармоишӣ"
+
+#. #-#-#-#-#  zakeke-interactive-product-designer-code.pot (Zakeke Interactive
+#. Product Designer 1.0.8)  #-#-#-#-#
+#. Plugin Name of the plugin/theme
+#: includes/class-zakeke-integration.php:19
+msgid "Zakeke Interactive Product Designer"
+msgstr "Designer Design Маҳсулоти Закеки"
+
+#: includes/class-zakeke-integration.php:20
+msgid "Integrate Zakeke into WooCommerce. These credentials will be used to allow the integration of Zakeke with your store. By entering your Zakeke credentials your store will be able to communicate with the Zakeke API. Please refer to the <a href=\"https://zakeke.zendesk.com/hc/en-us/sections/360004488294-WooCommerce-">Zakeke documentation</a> if you are unsure how to proceed"
+msgstr "Закекка ба WooCommerce пайваст аст. Ин нишондодҳо барои тақвият додани Zakeke бо мағозаи худ истифода хоҳанд шуд. Бо ворид намудани нишонаҳои Zakeke шумо мағозаи худро бо Закекси API муошират мекунад. Лутфан ба <a href=\"https://zakeke.zendesk.com/hc/en-us/sections/360004488294-WooCommerce-"> ба ҳуҷҷатҳои Zakeke </a> муроҷиат кунед, агар шумо намедонед, ки чӣ тавр иҷро кардан"
+
+#: includes/class-zakeke-integration.php:44
+msgid "Zakeke username"
+msgstr "Номи корбари Zakeke"
+
+#: includes/class-zakeke-integration.php:46
+msgid "Your Zakeke account username. Need a Zakeke account? <a href=\"https://portal.zakeke.com/Admin/Register\" target=\"_blank\">Click here to get one</a>"
+msgstr "Zakeke-и шумо номи корбарро ҳисоб мекунад. Ба ҳисоби Zakeke лозим аст? <a href=\"https://portal.zakeke.com/Admin/Register\" target=\"_blank\"> Барои дарёфт кардани якҷоя ба ин ҷо ангушт занед </a>"
+
+#: includes/class-zakeke-integration.php:50
+msgid "Zakeke password"
+msgstr "Рамзи Zakeke"
+
+#: includes/class-zakeke-integration.php:52
+msgid "Your Zakeke account password"
+msgstr "Пароли ҳисоби Zakeke"
+
+#: includes/class-zakeke-integration.php:55
+msgid "Force product customization"
+msgstr "Талаботи хусусияти маҳсулот"
+
+#: includes/class-zakeke-integration.php:58
+msgid "Replace the \"Add to cart\" button with the \"Customize\" button for customizable products"
+msgstr "Тугмачаи \"Ба тамғаи\" илова кунед бо тугмаи \"Менеҷмент\" барои маҳсулоти customizable"
+
+#: includes/class-zakeke-integration.php:62
+msgid "Debug Log"
+msgstr "Диски Фишурда"
+
+#: includes/class-zakeke-integration.php:64
+msgid "Enable logging"
+msgstr "Сатҳи сабтро фаъол созед"
+
+#: includes/class-zakeke-integration.php:66
+msgid "Log events such as API requests"
+msgstr "Чорабиниҳо ба монанди дархостҳои API"
+
+#: includes/class-zakeke-order.php:71
+msgid "Customization"
+msgstr "Customization"
+
+#: includes/class-zakeke-product-page.php:61
+#: includes/class-zakeke-product-page.php:87
+#: includes/class-zakeke-product-page.php:95
+msgid "Customize"
+msgstr "Customize"
+
+#: zakeke.php:91 zakeke.php:99
+msgid "Cheatin&#8217; huh?"
+msgstr "Cheatin Hood?"
+
+#. Plugin URI of the plugin/theme
+msgid "https://www.zakeke.com/"
+msgstr "Https://www.zakeke.com/"
+
+#. Author URI of the plugin/theme
+msgid "https://www.zakeke.com"
+msgstr "Https://www.zakeke.com"
+
+#. Author of the plugin/theme
+msgid "Zakeke"
+msgstr "Закеки"
+
+#: zakeke.php:225
+msgid "View Zakeke documentation"
+msgstr "Дидани ҳуҷҷатҳои Zakeke"
+
+#: zakeke.php:226
+msgid "Documentation"
+msgstr "Ҳуҷҷатҳо"
+
+#: zakeke.php:227
+msgid "Register to Zakeke"
+msgstr "Ба Закекӣ гузоред"
+
+#: zakeke.php:228
+msgid "Register to Zakeke to use the plugin"
+msgstr "Барои Zakeke истифода бурдани вироишро ба қайд гиред"
+
+#: zakeke.php:246
+msgid "View Zakeke settings"
+msgstr "Намоишҳои Закка"
+
+#: zakeke.php:247
+msgid "Settings"
+msgstr "Танзимотҳо"
+
+#. Description of the plugin/theme
+msgid "Innovative platform to let your customers to customize products in your e-store. Multi-language, mult-currency, 3D view and print-ready outputs."
+msgstr "Платформаи навоварие, ки ба мизоҷонатон иҷозат диҳед, ки маҳсулоти худро дар мағозаи электронӣ танзим кунед. Забони бисёрпазири, бисёрҷониба, 3D дидани ва чопи чопгар."

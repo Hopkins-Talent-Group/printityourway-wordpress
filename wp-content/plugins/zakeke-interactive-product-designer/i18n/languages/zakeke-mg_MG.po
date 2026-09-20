@@ -1,0 +1,154 @@
+# Translation of Zakeke - WooCommerce in Malagasy
+# This file is distributed under the same license as the Zakeke - WooCommerce package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: +0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/2.3.1\n"
+"Language: mg\n"
+"Project-Id-Version: Zakeke - WooCommerce\n"
+
+#: includes/admin/class-zakeke-admin-order.php:61
+msgid "Download customization files"
+msgstr "Afaho ny rakitra fanalahidy"
+
+#: includes/admin/class-zakeke-admin-order.php:64
+msgid "Customization files in processing"
+msgstr "Fandrafetana an-tsoratra amin'ny fanitsiana"
+
+#: includes/api/class-zakeke-rest-enabled-controller.php:51
+msgid "Product id of the product that became customizable."
+msgstr "Product idan'ny vokatra izay nanjaka."
+
+#: includes/api/class-zakeke-rest-enabled-controller.php:62
+msgid "Product id of the product that is no longer customizable."
+msgstr "Product idan'ny vokatra izay tsy voafetra intsony."
+
+#: includes/api/class-zakeke-rest-enabled-controller.php:75
+msgid "Required to be true, as resource does not support trashing."
+msgstr "Ilaina ny marina, satria ny loharano dia tsy manohana fako."
+
+#: includes/api/class-zakeke-rest-enabled-controller.php:94
+#: includes/api/class-zakeke-rest-settings-controller.php:62
+msgid "Sorry, you are not allowed to create resources."
+msgstr "Miala tsiny, tsy avela hanangona loharano ianao."
+
+#: includes/api/class-zakeke-rest-enabled-controller.php:111
+msgid "Sorry, you are not allowed to delete this resource."
+msgstr "Miala tsiny, tsy avela hamafa an'io loharano io ianao."
+
+#: includes/api/class-zakeke-rest-enabled-controller.php:191
+msgid "Product id."
+msgstr "Product id."
+
+#: includes/api/class-zakeke-rest-settings-controller.php:113
+msgid "Shop currency."
+msgstr "Shop currency."
+
+#: includes/class-zakeke-cart.php:141 includes/class-zakeke-order.php:74
+msgid "Customization Price"
+msgstr "Price Costume"
+
+#. #-#-#-#-#  zakeke-interactive-product-designer-code.pot (Zakeke Interactive
+#. Product Designer 1.0.8)  #-#-#-#-#
+#. Plugin Name of the plugin/theme
+#: includes/class-zakeke-integration.php:19
+msgid "Zakeke Interactive Product Designer"
+msgstr "Zakeke Interactive Product Designer"
+
+#: includes/class-zakeke-integration.php:20
+msgid "Integrate Zakeke into WooCommerce. These credentials will be used to allow the integration of Zakeke with your store. By entering your Zakeke credentials your store will be able to communicate with the Zakeke API. Please refer to the <a href=\"https://zakeke.zendesk.com/hc/en-us/sections/360004488294-WooCommerce-">Zakeke documentation</a> if you are unsure how to proceed"
+msgstr "Ampifandraiso amin'i Zakeke amin'ny WooCommerce. Ireo fahazoan-dàlana ireo dia hampiasaina hamela ny fampidirana an'i Zakeke amin'ny fivarotana. Amin'ny fampidirana ny fahazoan-dàlanao Zakeke dia ho afaka hifandray amin'ny Zakeke API ny kaontinao. Azafady jereo ny <a href=\"https://zakeke.zendesk.com/hc/en-us/sections/360004488294-WooCommerce-"> dokotera Zakeke </a> raha tsy azonao antoka ny mandeha"
+
+#: includes/class-zakeke-integration.php:44
+msgid "Zakeke username"
+msgstr "Zakeke anaran'ny mpampiasa"
+
+#: includes/class-zakeke-integration.php:46
+msgid "Your Zakeke account username. Need a Zakeke account? <a href=\"https://portal.zakeke.com/Admin/Register\" target=\"_blank\">Click here to get one</a>"
+msgstr "Ny anaran'ny kaontinao Zakeke. Mila kaonty Zakeke ve ianao? <a href=\"https://portal.zakeke.com/Admin/Register\" target=\"_blank\"> tsindrio eto raha te hahalala </a>"
+
+#: includes/class-zakeke-integration.php:50
+msgid "Zakeke password"
+msgstr "Zakeke tenimiafina"
+
+#: includes/class-zakeke-integration.php:52
+msgid "Your Zakeke account password"
+msgstr "Ny tenimiafin'ny kaonty Zakeke"
+
+#: includes/class-zakeke-integration.php:55
+msgid "Force product customization"
+msgstr "Ampanjaho ny fanamafisana ny vokatra"
+
+#: includes/class-zakeke-integration.php:58
+msgid "Replace the \"Add to cart\" button with the \"Customize\" button for customizable products"
+msgstr "Ampidino ny bokotra \"Ampio amin'ny cart\" miaraka amin'ny bokotra \"Manokana\" ho an'ny vokatra azo ampiasaina"
+
+#: includes/class-zakeke-integration.php:62
+msgid "Debug Log"
+msgstr "Debug Log"
+
+#: includes/class-zakeke-integration.php:64
+msgid "Enable logging"
+msgstr "Alefaso ny logging"
+
+#: includes/class-zakeke-integration.php:66
+msgid "Log events such as API requests"
+msgstr "Asehoy ny hetsika toy ny fangatahana API"
+
+#: includes/class-zakeke-order.php:71
+msgid "Customization"
+msgstr "Customization"
+
+#: includes/class-zakeke-product-page.php:61
+#: includes/class-zakeke-product-page.php:87
+#: includes/class-zakeke-product-page.php:95
+msgid "Customize"
+msgstr "Ataovy miavaka"
+
+#: zakeke.php:91 zakeke.php:99
+msgid "Cheatin&#8217; huh?"
+msgstr "Cheatinâ € ™ huh?"
+
+#. Plugin URI of the plugin/theme
+msgid "https://www.zakeke.com/"
+msgstr "https://www.zakeke.com/"
+
+#. Author URI of the plugin/theme
+msgid "https://www.zakeke.com"
+msgstr "https://www.zakeke.com"
+
+#. Author of the plugin/theme
+msgid "Zakeke"
+msgstr "Zakeke"
+
+#: zakeke.php:225
+msgid "View Zakeke documentation"
+msgstr "Hizaha ny antontan-taratasin'i Zakeke"
+
+#: zakeke.php:226
+msgid "Documentation"
+msgstr "Documentation"
+
+#: zakeke.php:227
+msgid "Register to Zakeke"
+msgstr "Manorata ho an'i Zakeke"
+
+#: zakeke.php:228
+msgid "Register to Zakeke to use the plugin"
+msgstr "Manorata amin'i Zakeke mba hampiasa ilay plugin"
+
+#: zakeke.php:246
+msgid "View Zakeke settings"
+msgstr "Hizaha ny safidy Zakeke"
+
+#: zakeke.php:247
+msgid "Settings"
+msgstr "Settings"
+
+#. Description of the plugin/theme
+msgid "Innovative platform to let your customers to customize products in your e-store. Multi-language, mult-currency, 3D view and print-ready outputs."
+msgstr "Tetikasa vaovao ahafahan'ny mpanjifanao mametraka ny vokatra ao amin'ny e-store. Fomba fiteny amin'ny fiteny samihafa, mozika, 3D ary famoahana mivantana."

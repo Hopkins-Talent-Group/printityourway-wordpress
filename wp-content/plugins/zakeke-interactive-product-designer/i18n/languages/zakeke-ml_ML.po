@@ -1,0 +1,154 @@
+# Translation of Zakeke - WooCommerce in Malayalam
+# This file is distributed under the same license as the Zakeke - WooCommerce package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: +0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/2.3.1\n"
+"Language: ml_IN\n"
+"Project-Id-Version: Zakeke - WooCommerce\n"
+
+#: includes/admin/class-zakeke-admin-order.php:61
+msgid "Download customization files"
+msgstr "ഇഷ്ടാനുസൃതമാക്കൽ ഫയലുകൾ ഡൗൺലോഡ് ചെയ്യുക"
+
+#: includes/admin/class-zakeke-admin-order.php:64
+msgid "Customization files in processing"
+msgstr "പ്രോസസ്സിൽ ഇഷ്ടാനുസൃതമാക്കൽ ഫയലുകൾ"
+
+#: includes/api/class-zakeke-rest-enabled-controller.php:51
+msgid "Product id of the product that became customizable."
+msgstr "ഉൽപ്പന്നത്തിന്റെ ഉല്പന്ന ഐഡി കസ്റ്റമൈസ് ആയിത്തീർന്നു."
+
+#: includes/api/class-zakeke-rest-enabled-controller.php:62
+msgid "Product id of the product that is no longer customizable."
+msgstr "ഉല്പന്നത്തിന്റെ ഉൽപന്ന ഐഡി ഇനി കസ്റ്റമൈസുചെയ്യാനാകില്ല."
+
+#: includes/api/class-zakeke-rest-enabled-controller.php:75
+msgid "Required to be true, as resource does not support trashing."
+msgstr "റിസോഴ്സ് ട്രാഷ് ചെയ്യുന്നതിനെ പിന്തുണയ്ക്കുന്നില്ല എന്നതിനാൽ, ശരിയായിരിക്കണം."
+
+#: includes/api/class-zakeke-rest-enabled-controller.php:94
+#: includes/api/class-zakeke-rest-settings-controller.php:62
+msgid "Sorry, you are not allowed to create resources."
+msgstr "ക്ഷമിക്കണം, നിങ്ങൾക്ക് ഉറവിടങ്ങൾ സൃഷ്ടിക്കാൻ അനുവാദമില്ല."
+
+#: includes/api/class-zakeke-rest-enabled-controller.php:111
+msgid "Sorry, you are not allowed to delete this resource."
+msgstr "ക്ഷമിക്കണം, ഈ വിഭവം ഇല്ലാതാക്കാൻ നിങ്ങളെ അനുവദിച്ചിട്ടില്ല."
+
+#: includes/api/class-zakeke-rest-enabled-controller.php:191
+msgid "Product id."
+msgstr "ഉൽപ്പന്ന ഐഡി."
+
+#: includes/api/class-zakeke-rest-settings-controller.php:113
+msgid "Shop currency."
+msgstr "കസ്റ്റം വാങ്ങുക."
+
+#: includes/class-zakeke-cart.php:141 includes/class-zakeke-order.php:74
+msgid "Customization Price"
+msgstr "ഇഷ്ടാനുസൃതമാക്കൽ വില"
+
+#. #-#-#-#-#  zakeke-interactive-product-designer-code.pot (Zakeke Interactive
+#. Product Designer 1.0.8)  #-#-#-#-#
+#. Plugin Name of the plugin/theme
+#: includes/class-zakeke-integration.php:19
+msgid "Zakeke Interactive Product Designer"
+msgstr "സാകേക്ക് ഇന്ററാക്ടീവ് പ്രൊഡക്ട് ഡിസൈനർ"
+
+#: includes/class-zakeke-integration.php:20
+msgid "Integrate Zakeke into WooCommerce. These credentials will be used to allow the integration of Zakeke with your store. By entering your Zakeke credentials your store will be able to communicate with the Zakeke API. Please refer to the <a href=\"https://zakeke.zendesk.com/hc/en-us/sections/360004488294-WooCommerce-">Zakeke documentation</a> if you are unsure how to proceed"
+msgstr "WooCommerce- ലേക്ക് Zakeke സമന്വയിപ്പിക്കുക. നിങ്ങളുടെ സ്റ്റോർ ഉപയോഗിച്ച് Zakeke യുടെ സംയോജനം അനുവദിക്കുന്നതിനായി ഈ ക്രെഡൻഷ്യലുകൾ ഉപയോഗിക്കും. നിങ്ങളുടെ Zakeke ക്രെഡൻഷ്യലുകൾ നൽകി നിങ്ങളുടെ സ്റ്റോർ Zakeke API ഉപയോഗിച്ച് ആശയവിനിമയം നടത്തുന്നു. തുടരേണ്ടത് എങ്ങനെയെന്ന് നിങ്ങൾക്ക് ഉറപ്പില്ലെങ്കിൽ <a href=\"https://zakeke.zendesk.com/hc/en-us/sections/360004488294-WooCommerce-"> Zakeke ഡോക്യുമെന്റേഷൻ </a> പരിശോധിക്കുക"
+
+#: includes/class-zakeke-integration.php:44
+msgid "Zakeke username"
+msgstr "Zakeke ഉപയോക്തൃനാമം"
+
+#: includes/class-zakeke-integration.php:46
+msgid "Your Zakeke account username. Need a Zakeke account? <a href=\"https://portal.zakeke.com/Admin/Register\" target=\"_blank\">Click here to get one</a>"
+msgstr "നിങ്ങളുടെ Zakeke അക്കൗണ്ട് ഉപയോക്തൃനാമം. ഒരു Zakeke അക്കൗണ്ട് ആവശ്യമുണ്ടോ? <a href=\"https://portal.zakeke.com/Admin/Register\" target=\"_blank\"> ഒരെണ്ണം സ്വന്തമാക്കാൻ ഇവിടെ ക്ലിക്കുചെയ്യുക </a>"
+
+#: includes/class-zakeke-integration.php:50
+msgid "Zakeke password"
+msgstr "പാസ് വേഡ് പാസ്സ്വേർഡ്"
+
+#: includes/class-zakeke-integration.php:52
+msgid "Your Zakeke account password"
+msgstr "നിങ്ങളുടെ Zakeke അക്കൗണ്ട് പാസ്വേഡ്"
+
+#: includes/class-zakeke-integration.php:55
+msgid "Force product customization"
+msgstr "നിർബന്ധിതം ഉൽപ്പന്ന ഇച്ഛാനുസൃതമാക്കൽ"
+
+#: includes/class-zakeke-integration.php:58
+msgid "Replace the \"Add to cart\" button with the \"Customize\" button for customizable products"
+msgstr "ഇഷ്ടാനുസൃത ഉൽപ്പന്നങ്ങൾക്ക് \"ഇച്ഛാനുസൃതമാക്കുക\" ബട്ടൺ ഉപയോഗിച്ച് \"കാർഡിലേക്ക് ചേർക്കുക\" ബട്ടൺ പകരം വയ്ക്കുക"
+
+#: includes/class-zakeke-integration.php:62
+msgid "Debug Log"
+msgstr "ഡീബഗ് ലോഗ്"
+
+#: includes/class-zakeke-integration.php:64
+msgid "Enable logging"
+msgstr "ലോഗ്ചെയ്യൽ പ്രാപ്തമാക്കുക"
+
+#: includes/class-zakeke-integration.php:66
+msgid "Log events such as API requests"
+msgstr "API അഭ്യർത്ഥനകൾ പോലുള്ള ഇവന്റുകൾ ലോഗ് ചെയ്യുക"
+
+#: includes/class-zakeke-order.php:71
+msgid "Customization"
+msgstr "ഇഷ്ടാനുസൃതമാക്കൽ"
+
+#: includes/class-zakeke-product-page.php:61
+#: includes/class-zakeke-product-page.php:87
+#: includes/class-zakeke-product-page.php:95
+msgid "Customize"
+msgstr "ഇഷ്ടാനുസൃതമാക്കുക"
+
+#: zakeke.php:91 zakeke.php:99
+msgid "Cheatin&#8217; huh?"
+msgstr "ചീറ്റിൻ?"
+
+#. Plugin URI of the plugin/theme
+msgid "https://www.zakeke.com/"
+msgstr "Https://www.zakeke.com/"
+
+#. Author URI of the plugin/theme
+msgid "https://www.zakeke.com"
+msgstr "Https://www.zakeke.com"
+
+#. Author of the plugin/theme
+msgid "Zakeke"
+msgstr "Zakeke"
+
+#: zakeke.php:225
+msgid "View Zakeke documentation"
+msgstr "സെയ്ക്കെയ് ഡോക്യുമെന്റേഷൻ കാണുക"
+
+#: zakeke.php:226
+msgid "Documentation"
+msgstr "ഡോക്യുമെന്റേഷൻ"
+
+#: zakeke.php:227
+msgid "Register to Zakeke"
+msgstr "Zakeke- ലേക്ക് രജിസ്റ്റർ ചെയ്യുക"
+
+#: zakeke.php:228
+msgid "Register to Zakeke to use the plugin"
+msgstr "പ്ലഗ് ഇൻ ഉപയോഗിക്കുന്നതിന് Zakeke- ലേക്ക് രജിസ്റ്റർ ചെയ്യുക"
+
+#: zakeke.php:246
+msgid "View Zakeke settings"
+msgstr "Zakeke ക്രമീകരണങ്ങൾ കാണുക"
+
+#: zakeke.php:247
+msgid "Settings"
+msgstr "ക്രമീകരണങ്ങൾ"
+
+#. Description of the plugin/theme
+msgid "Innovative platform to let your customers to customize products in your e-store. Multi-language, mult-currency, 3D view and print-ready outputs."
+msgstr "നിങ്ങളുടെ ഇ-സ്റ്റോറിൽ ഉൽപ്പന്നങ്ങൾ ഇഷ്ടാനുസൃതമാക്കാൻ നിങ്ങളുടെ ഉപഭോക്താക്കളെ അനുവദിക്കുന്നതിനുള്ള നൂതനമായ പ്ലാറ്റ്ഫോം. ഒന്നിലധികം ഭാഷ, മൾട്ടി-കറൻസി, 3D കാഴ്ച, അച്ചടി-സജ്ജീകരണ ഔട്ട്പുട്ട് എന്നിവ."

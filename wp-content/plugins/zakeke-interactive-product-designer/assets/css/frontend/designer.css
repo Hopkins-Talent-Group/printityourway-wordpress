@@ -1,0 +1,37 @@
+#zakeke-container {
+	width: 100%;
+}
+
+#zakeke-frame {
+	width: 100%;
+	border: 0;
+	overflow: hidden;
+}
+
+@media (min-width: 769px) {
+	#zakeke-frame {
+		min-height: 620px;
+		height: 77vh;
+	}
+}
+
+@media (max-width: 768px) {
+	html {
+		height: -webkit-fill-available;
+	}
+
+	#zakeke-frame {
+		position: fixed;
+		top: 0;
+		left: 0;
+		right: 0;
+		bottom: 0;
+		z-index: 999999999;
+		min-height: 100%;
+		min-height: -webkit-fill-available;
+	}
+
+	div:not(#zakeke-container) {
+		display: none;
+	}
+}

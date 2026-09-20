@@ -1,0 +1,154 @@
+# Translation of Zakeke - WooCommerce in Indonesian
+# This file is distributed under the same license as the Zakeke - WooCommerce package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: +0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: GlotPress/2.3.1\n"
+"Language: id\n"
+"Project-Id-Version: Zakeke - WooCommerce\n"
+
+#: includes/admin/class-zakeke-admin-order.php:61
+msgid "Download customization files"
+msgstr "Download file kustomisasi"
+
+#: includes/admin/class-zakeke-admin-order.php:64
+msgid "Customization files in processing"
+msgstr "Kustomisasi file dalam pengolahan"
+
+#: includes/api/class-zakeke-rest-enabled-controller.php:51
+msgid "Product id of the product that became customizable."
+msgstr "Product id dari produk yang menjadi customizable."
+
+#: includes/api/class-zakeke-rest-enabled-controller.php:62
+msgid "Product id of the product that is no longer customizable."
+msgstr "Product id dari produk yang sudah tidak bisa dikustomisasi lagi."
+
+#: includes/api/class-zakeke-rest-enabled-controller.php:75
+msgid "Required to be true, as resource does not support trashing."
+msgstr "Diperlukan untuk menjadi kenyataan, karena sumber daya tidak mendukung pencemaran nama baik."
+
+#: includes/api/class-zakeke-rest-enabled-controller.php:94
+#: includes/api/class-zakeke-rest-settings-controller.php:62
+msgid "Sorry, you are not allowed to create resources."
+msgstr "Maaf, Anda tidak diperbolehkan membuat sumber daya."
+
+#: includes/api/class-zakeke-rest-enabled-controller.php:111
+msgid "Sorry, you are not allowed to delete this resource."
+msgstr "Maaf, Anda tidak diizinkan untuk menghapus sumber ini."
+
+#: includes/api/class-zakeke-rest-enabled-controller.php:191
+msgid "Product id."
+msgstr "ID Produk."
+
+#: includes/api/class-zakeke-rest-settings-controller.php:113
+msgid "Shop currency."
+msgstr "Belanja mata uang"
+
+#: includes/class-zakeke-cart.php:141 includes/class-zakeke-order.php:74
+msgid "Customization Price"
+msgstr "Harga Kustomisasi"
+
+#. #-#-#-#-#  zakeke-interactive-product-designer-code.pot (Zakeke Interactive
+#. Product Designer 1.0.8)  #-#-#-#-#
+#. Plugin Name of the plugin/theme
+#: includes/class-zakeke-integration.php:19
+msgid "Zakeke Interactive Product Designer"
+msgstr "Perancang Produk Interaktif Zakeke"
+
+#: includes/class-zakeke-integration.php:20
+msgid "Integrate Zakeke into WooCommerce. These credentials will be used to allow the integration of Zakeke with your store. By entering your Zakeke credentials your store will be able to communicate with the Zakeke API. Please refer to the <a href=\"https://zakeke.zendesk.com/hc/en-us/sections/360004488294-WooCommerce-">Zakeke documentation</a> if you are unsure how to proceed"
+msgstr "Integrasikan Zakeke ke WooCommerce. Kredensial ini akan digunakan untuk memungkinkan integrasi Zakeke dengan toko Anda. Dengan memasukkan kredensial Zakeke, toko Anda akan dapat berkomunikasi dengan API Zakeke. Lihat dokumentasi <a href=\"https://zakeke.zendesk.com/hc/en-us/sections/360004488294-WooCommerce-"> Zakeke </a> jika Anda tidak yakin bagaimana cara melanjutkan"
+
+#: includes/class-zakeke-integration.php:44
+msgid "Zakeke username"
+msgstr "Nama pengguna Zakeke"
+
+#: includes/class-zakeke-integration.php:46
+msgid "Your Zakeke account username. Need a Zakeke account? <a href=\"https://portal.zakeke.com/Admin/Register\" target=\"_blank\">Click here to get one</a>"
+msgstr "Username akun Zakeke anda Butuh akun Zakeke? <a href=\"https://portal.zakeke.com/Admin/Register\" target=\"_blank\"> Klik di sini untuk mendapatkannya </a>"
+
+#: includes/class-zakeke-integration.php:50
+msgid "Zakeke password"
+msgstr "Kata sandi Zakeke"
+
+#: includes/class-zakeke-integration.php:52
+msgid "Your Zakeke account password"
+msgstr "Sandi akun Zakeke anda"
+
+#: includes/class-zakeke-integration.php:55
+msgid "Force product customization"
+msgstr "Paksa kustomisasi produk"
+
+#: includes/class-zakeke-integration.php:58
+msgid "Replace the \"Add to cart\" button with the \"Customize\" button for customizable products"
+msgstr "Ganti tombol \"Tambahkan ke keranjang\" dengan tombol \"Sesuaikan\" untuk produk yang dapat disesuaikan"
+
+#: includes/class-zakeke-integration.php:62
+msgid "Debug Log"
+msgstr "Log Debug"
+
+#: includes/class-zakeke-integration.php:64
+msgid "Enable logging"
+msgstr "Aktifkan penebangan"
+
+#: includes/class-zakeke-integration.php:66
+msgid "Log events such as API requests"
+msgstr "Log peristiwa seperti permintaan API"
+
+#: includes/class-zakeke-order.php:71
+msgid "Customization"
+msgstr "Kustomisasi"
+
+#: includes/class-zakeke-product-page.php:61
+#: includes/class-zakeke-product-page.php:87
+#: includes/class-zakeke-product-page.php:95
+msgid "Customize"
+msgstr "Sesuaikan"
+
+#: zakeke.php:91 zakeke.php:99
+msgid "Cheatin&#8217; huh?"
+msgstr "Cheatin? Hah?"
+
+#. Plugin URI of the plugin/theme
+msgid "https://www.zakeke.com/"
+msgstr "Https://www.zakeke.com/"
+
+#. Author URI of the plugin/theme
+msgid "https://www.zakeke.com"
+msgstr "Https://www.zakeke.com"
+
+#. Author of the plugin/theme
+msgid "Zakeke"
+msgstr "Zakeke"
+
+#: zakeke.php:225
+msgid "View Zakeke documentation"
+msgstr "Lihat dokumentasi Zakeke"
+
+#: zakeke.php:226
+msgid "Documentation"
+msgstr "Dokumentasi"
+
+#: zakeke.php:227
+msgid "Register to Zakeke"
+msgstr "Daftar ke Zakeke"
+
+#: zakeke.php:228
+msgid "Register to Zakeke to use the plugin"
+msgstr "Mendaftar ke Zakeke untuk menggunakan plugin"
+
+#: zakeke.php:246
+msgid "View Zakeke settings"
+msgstr "Lihat setting Zakeke"
+
+#: zakeke.php:247
+msgid "Settings"
+msgstr "Pengaturan"
+
+#. Description of the plugin/theme
+msgid "Innovative platform to let your customers to customize products in your e-store. Multi-language, mult-currency, 3D view and print-ready outputs."
+msgstr "Platform inovatif untuk membiarkan pelanggan Anda menyesuaikan produk di toko elektronik Anda. Multi-bahasa, multi-mata uang, tampilan 3D dan output cetak-siap."

@@ -1,0 +1,43 @@
+// ------------------------------------------------------------------------------------------------
+// LOGO
+// ------------------------------------------------------------------------------------------------
+
+@if $general {
+
+	.xts-logo-wrap {
+		position: relative;
+		height: $xts-header-h;
+		align-items: flex-start !important;
+		flex-direction: column;
+		justify-content: center;
+		padding-inline: 30px;
+		border-inline-end: 1px solid var(--xts-option-border-color);
+
+		> a {
+			position: absolute;
+			inset: 0;
+		}
+	}
+
+	.xts-logo {
+		display: inline-block;
+		max-width: 170px;
+		padding-block: 10px;
+		max-height: 70px;
+	}
+
+	@media (max-width: 782px) {
+
+		.xts-logo-wrap {
+			padding-inline-end: 20px;
+		}
+	}
+
+	@media (max-width: 1200px) {
+
+		.xts-logo {
+			max-width: 90px;
+		}
+	}
+
+} // END IF

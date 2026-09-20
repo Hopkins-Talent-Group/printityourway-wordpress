@@ -1,0 +1,32 @@
+// ------------------------------------------------------------------------------------------------
+// NOTE
+// ------------------------------------------------------------------------------------------------
+
+@if $general {
+
+	.xts-note {
+		padding: 15px 20px;
+		border-radius: var(--xts-brd-radius);
+		background-color: #F8F8F8;
+		color: #838383;
+		font-style: italic;
+		font-size: 13px;
+		text-align: start;
+
+		span {
+
+			&:before {
+				font-style: normal;
+
+				@include font-icon($xts-icon-alert-information);
+				margin-inline-end: 5px;
+			}
+		}
+
+		&.xts-success {
+			background-color: #E8EEE0;
+			color: rgba(#535353,.7);
+		}
+	}
+
+} // END IF

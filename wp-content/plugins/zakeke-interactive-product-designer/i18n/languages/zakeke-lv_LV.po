@@ -1,0 +1,154 @@
+# Translation of Zakeke - WooCommerce in Latvian
+# This file is distributed under the same license as the Zakeke - WooCommerce package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: +0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n != 0 ? 1 : 2);\n"
+"X-Generator: GlotPress/2.3.1\n"
+"Language: lv\n"
+"Project-Id-Version: Zakeke - WooCommerce\n"
+
+#: includes/admin/class-zakeke-admin-order.php:61
+msgid "Download customization files"
+msgstr "Lejupielādējiet pielāgošanas failus"
+
+#: includes/admin/class-zakeke-admin-order.php:64
+msgid "Customization files in processing"
+msgstr "Pielāgošanas faili apstrādē"
+
+#: includes/api/class-zakeke-rest-enabled-controller.php:51
+msgid "Product id of the product that became customizable."
+msgstr "Produkta ID produkts, kas kļuva pielāgojams."
+
+#: includes/api/class-zakeke-rest-enabled-controller.php:62
+msgid "Product id of the product that is no longer customizable."
+msgstr "Preces produkta ID, kas vairs nav pielāgojams."
+
+#: includes/api/class-zakeke-rest-enabled-controller.php:75
+msgid "Required to be true, as resource does not support trashing."
+msgstr "Nepieciešams būt taisnība, jo resurss neatbalsta atkritumu savākšanu."
+
+#: includes/api/class-zakeke-rest-enabled-controller.php:94
+#: includes/api/class-zakeke-rest-settings-controller.php:62
+msgid "Sorry, you are not allowed to create resources."
+msgstr "Atvainojiet, jums nav atļauts veidot resursus."
+
+#: includes/api/class-zakeke-rest-enabled-controller.php:111
+msgid "Sorry, you are not allowed to delete this resource."
+msgstr "Atvainojiet, jums nav atļauts dzēst šo resursu."
+
+#: includes/api/class-zakeke-rest-enabled-controller.php:191
+msgid "Product id."
+msgstr "Produkta ID."
+
+#: includes/api/class-zakeke-rest-settings-controller.php:113
+msgid "Shop currency."
+msgstr "Veikala valūta."
+
+#: includes/class-zakeke-cart.php:141 includes/class-zakeke-order.php:74
+msgid "Customization Price"
+msgstr "Pielāgošanas cena"
+
+#. #-#-#-#-#  zakeke-interactive-product-designer-code.pot (Zakeke Interactive
+#. Product Designer 1.0.8)  #-#-#-#-#
+#. Plugin Name of the plugin/theme
+#: includes/class-zakeke-integration.php:19
+msgid "Zakeke Interactive Product Designer"
+msgstr "Zakekes interaktīvo produktu dizaineris"
+
+#: includes/class-zakeke-integration.php:20
+msgid "Integrate Zakeke into WooCommerce. These credentials will be used to allow the integration of Zakeke with your store. By entering your Zakeke credentials your store will be able to communicate with the Zakeke API. Please refer to the <a href=\"https://zakeke.zendesk.com/hc/en-us/sections/360004488294-WooCommerce-">Zakeke documentation</a> if you are unsure how to proceed"
+msgstr "Integrējiet Zakeke vērā WooCommerce. Šie akreditācijas dati tiks izmantoti, lai varētu integrēt Zakeke ar savu veikalu. Ievadot Zakeke akreditācijas datus, jūsu veikals varēs sazināties ar Zakeke API. Lūdzu, skatiet <a href=\"https://zakeke.zendesk.com/hc/en-us/sections/360004488294-WooCommerce-"> Zakeke dokumentāciju </a>, ja neesat pārliecināts, kā turpināt"
+
+#: includes/class-zakeke-integration.php:44
+msgid "Zakeke username"
+msgstr "Zakeke lietotājvārds"
+
+#: includes/class-zakeke-integration.php:46
+msgid "Your Zakeke account username. Need a Zakeke account? <a href=\"https://portal.zakeke.com/Admin/Register\" target=\"_blank\">Click here to get one</a>"
+msgstr "Jūsu Zakeke konta lietotājvārds. Nepieciešama Zakeke konts? <a href=\"https://portal.zakeke.com/Admin/Register\" target=\"_blank\"> Noklikšķiniet šeit, lai iegūtu vienu </a>"
+
+#: includes/class-zakeke-integration.php:50
+msgid "Zakeke password"
+msgstr "Zakeke parole"
+
+#: includes/class-zakeke-integration.php:52
+msgid "Your Zakeke account password"
+msgstr "Jūsu Zakeke konta parole"
+
+#: includes/class-zakeke-integration.php:55
+msgid "Force product customization"
+msgstr "Piespiedu produkta pielāgošana"
+
+#: includes/class-zakeke-integration.php:58
+msgid "Replace the \"Add to cart\" button with the \"Customize\" button for customizable products"
+msgstr "Nomainiet pogu \"Pievienot grozam\" ar pielāgojamo produktu pogu \"Pielāgot\""
+
+#: includes/class-zakeke-integration.php:62
+msgid "Debug Log"
+msgstr "Atkļūdošanas žurnāls"
+
+#: includes/class-zakeke-integration.php:64
+msgid "Enable logging"
+msgstr "Iespējot mežizstrādi"
+
+#: includes/class-zakeke-integration.php:66
+msgid "Log events such as API requests"
+msgstr "Pieteikšanās notikumi, piemēram, API pieprasījumi"
+
+#: includes/class-zakeke-order.php:71
+msgid "Customization"
+msgstr "Pielāgošana"
+
+#: includes/class-zakeke-product-page.php:61
+#: includes/class-zakeke-product-page.php:87
+#: includes/class-zakeke-product-page.php:95
+msgid "Customize"
+msgstr "Pielāgot"
+
+#: zakeke.php:91 zakeke.php:99
+msgid "Cheatin&#8217; huh?"
+msgstr "Cheatinâ € ™ huh?"
+
+#. Plugin URI of the plugin/theme
+msgid "https://www.zakeke.com/"
+msgstr "Https://www.zakeke.com/"
+
+#. Author URI of the plugin/theme
+msgid "https://www.zakeke.com"
+msgstr "Https://www.zakeke.com"
+
+#. Author of the plugin/theme
+msgid "Zakeke"
+msgstr "Zakeke"
+
+#: zakeke.php:225
+msgid "View Zakeke documentation"
+msgstr "Skatīt Zakeke dokumentāciju"
+
+#: zakeke.php:226
+msgid "Documentation"
+msgstr "Dokumentācija"
+
+#: zakeke.php:227
+msgid "Register to Zakeke"
+msgstr "Reģistrējieties Zakekē"
+
+#: zakeke.php:228
+msgid "Register to Zakeke to use the plugin"
+msgstr "Reģistrējieties Zakeke, lai izmantotu spraudni"
+
+#: zakeke.php:246
+msgid "View Zakeke settings"
+msgstr "Skatiet Zakeke iestatījumus"
+
+#: zakeke.php:247
+msgid "Settings"
+msgstr "Iestatījumi"
+
+#. Description of the plugin/theme
+msgid "Innovative platform to let your customers to customize products in your e-store. Multi-language, mult-currency, 3D view and print-ready outputs."
+msgstr "Inovatīva platforma, kas ļauj jūsu klientiem pielāgot produktus savā e-veikalā. Daudzvalodu, daudzvalūtu, 3D skats un izdrukas gatavība."

@@ -1,0 +1,154 @@
+# Translation of Zakeke - WooCommerce in Hindi
+# This file is distributed under the same license as the Zakeke - WooCommerce package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: +0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/2.3.1\n"
+"Language: hi_IN\n"
+"Project-Id-Version: Zakeke - WooCommerce\n"
+
+#: includes/admin/class-zakeke-admin-order.php:61
+msgid "Download customization files"
+msgstr "अनुकूलन फ़ाइलें डाउनलोड करें"
+
+#: includes/admin/class-zakeke-admin-order.php:64
+msgid "Customization files in processing"
+msgstr "प्रसंस्करण में अनुकूलन फाइलें"
+
+#: includes/api/class-zakeke-rest-enabled-controller.php:51
+msgid "Product id of the product that became customizable."
+msgstr "उत्पाद का उत्पाद आईडी जो अनुकूलन योग्य हो गया"
+
+#: includes/api/class-zakeke-rest-enabled-controller.php:62
+msgid "Product id of the product that is no longer customizable."
+msgstr "उस उत्पाद का उत्पाद आईडी जो अब अनुकूलन योग्य नहीं है।"
+
+#: includes/api/class-zakeke-rest-enabled-controller.php:75
+msgid "Required to be true, as resource does not support trashing."
+msgstr "सच्चा होना आवश्यक है, क्योंकि संसाधन रद्दीकरण का समर्थन नहीं करता है।"
+
+#: includes/api/class-zakeke-rest-enabled-controller.php:94
+#: includes/api/class-zakeke-rest-settings-controller.php:62
+msgid "Sorry, you are not allowed to create resources."
+msgstr "क्षमा करें, आपको संसाधन बनाने की अनुमति नहीं है"
+
+#: includes/api/class-zakeke-rest-enabled-controller.php:111
+msgid "Sorry, you are not allowed to delete this resource."
+msgstr "क्षमा करें, आपको इस संसाधन को हटाने की अनुमति नहीं है।"
+
+#: includes/api/class-zakeke-rest-enabled-controller.php:191
+msgid "Product id."
+msgstr "उत्पाद आइ डि।"
+
+#: includes/api/class-zakeke-rest-settings-controller.php:113
+msgid "Shop currency."
+msgstr "खरीदारी करें मुद्रा"
+
+#: includes/class-zakeke-cart.php:141 includes/class-zakeke-order.php:74
+msgid "Customization Price"
+msgstr "अनुकूलन मूल्य"
+
+#. #-#-#-#-#  zakeke-interactive-product-designer-code.pot (Zakeke Interactive
+#. Product Designer 1.0.8)  #-#-#-#-#
+#. Plugin Name of the plugin/theme
+#: includes/class-zakeke-integration.php:19
+msgid "Zakeke Interactive Product Designer"
+msgstr "ज़केके इंटरैक्टिव उत्पाद डिजाइनर"
+
+#: includes/class-zakeke-integration.php:20
+msgid "Integrate Zakeke into WooCommerce. These credentials will be used to allow the integration of Zakeke with your store. By entering your Zakeke credentials your store will be able to communicate with the Zakeke API. Please refer to the <a href=\"https://zakeke.zendesk.com/hc/en-us/sections/360004488294-WooCommerce-">Zakeke documentation</a> if you are unsure how to proceed"
+msgstr "WooCommerce में Zakeke एकीकृत इन क्रेडेंशियल्स का उपयोग आपके स्टोर के साथ ज़केके के एकीकरण की अनुमति के लिए किया जाएगा। आपके जेकेके क्रेडेंशियल्स दर्ज करके आपका स्टोर ज़केके एपीआई के साथ संवाद करने में सक्षम होगा। कृपया <a href=\"https://zakeke.zendesk.com/hc/en-us/sections/360004488294-WooCommerce-"> ज़केके प्रलेखन </a> देखें यदि आप अनिश्चित हैं कि कैसे आगे बढ़ना है"
+
+#: includes/class-zakeke-integration.php:44
+msgid "Zakeke username"
+msgstr "ज़केके उपयोगकर्ता नाम"
+
+#: includes/class-zakeke-integration.php:46
+msgid "Your Zakeke account username. Need a Zakeke account? <a href=\"https://portal.zakeke.com/Admin/Register\" target=\"_blank\">Click here to get one</a>"
+msgstr "आपका Zakeke खाता उपयोगकर्ता नाम ज़केके खाते की आवश्यकता है? <a href=\"https://portal.zakeke.com/Admin/Register\" target=\"_blank\"> एक पाने के लिए यहां क्लिक करें </a>"
+
+#: includes/class-zakeke-integration.php:50
+msgid "Zakeke password"
+msgstr "जेकेके पासवर्ड"
+
+#: includes/class-zakeke-integration.php:52
+msgid "Your Zakeke account password"
+msgstr "आपका ज़ैकेके खाता पासवर्ड"
+
+#: includes/class-zakeke-integration.php:55
+msgid "Force product customization"
+msgstr "फोर्स उत्पाद अनुकूलन"
+
+#: includes/class-zakeke-integration.php:58
+msgid "Replace the \"Add to cart\" button with the \"Customize\" button for customizable products"
+msgstr "अनुकूलन उत्पादों के लिए \"कस्टमाइज़ करें\" बटन के साथ \"कार्ट में जोड़ें\" बटन को बदलें"
+
+#: includes/class-zakeke-integration.php:62
+msgid "Debug Log"
+msgstr "लॉग को डीबग करें"
+
+#: includes/class-zakeke-integration.php:64
+msgid "Enable logging"
+msgstr "लॉगिंग करने देना"
+
+#: includes/class-zakeke-integration.php:66
+msgid "Log events such as API requests"
+msgstr "एपीआई अनुरोध जैसे ईवेंट लॉग करें"
+
+#: includes/class-zakeke-order.php:71
+msgid "Customization"
+msgstr "अनुकूलन"
+
+#: includes/class-zakeke-product-page.php:61
+#: includes/class-zakeke-product-page.php:87
+#: includes/class-zakeke-product-page.php:95
+msgid "Customize"
+msgstr "अनुकूलित करें"
+
+#: zakeke.php:91 zakeke.php:99
+msgid "Cheatin&#8217; huh?"
+msgstr "चीटिन 'हह?"
+
+#. Plugin URI of the plugin/theme
+msgid "https://www.zakeke.com/"
+msgstr "https://www.zakeke.com/"
+
+#. Author URI of the plugin/theme
+msgid "https://www.zakeke.com"
+msgstr "https://www.zakeke.com"
+
+#. Author of the plugin/theme
+msgid "Zakeke"
+msgstr "Zakeke"
+
+#: zakeke.php:225
+msgid "View Zakeke documentation"
+msgstr "ज़केके प्रलेख देखें"
+
+#: zakeke.php:226
+msgid "Documentation"
+msgstr "प्रलेखन"
+
+#: zakeke.php:227
+msgid "Register to Zakeke"
+msgstr "ज़केके को पंजीकृत करें"
+
+#: zakeke.php:228
+msgid "Register to Zakeke to use the plugin"
+msgstr "प्लगइन का उपयोग करने के लिए ज़केके पर रजिस्टर करें"
+
+#: zakeke.php:246
+msgid "View Zakeke settings"
+msgstr "ज़केके सेटिंग देखें"
+
+#: zakeke.php:247
+msgid "Settings"
+msgstr "सेटिंग्स"
+
+#. Description of the plugin/theme
+msgid "Innovative platform to let your customers to customize products in your e-store. Multi-language, mult-currency, 3D view and print-ready outputs."
+msgstr "अपने ग्राहकों को अपने ई-स्टोर में उत्पादों को कस्टमाइज़ करने के लिए अभिनव मंच बहु-भाषा, बहु-मुद्रा, 3D व्यू और प्रिंट-तैयार आउटपुट।"

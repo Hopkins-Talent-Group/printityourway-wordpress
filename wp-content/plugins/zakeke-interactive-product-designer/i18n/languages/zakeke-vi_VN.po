@@ -1,0 +1,154 @@
+# Translation of Zakeke - WooCommerce in Vietnamese
+# This file is distributed under the same license as the Zakeke - WooCommerce package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: +0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: GlotPress/2.3.1\n"
+"Language: vi_VN\n"
+"Project-Id-Version: Zakeke - WooCommerce\n"
+
+#: includes/admin/class-zakeke-admin-order.php:61
+msgid "Download customization files"
+msgstr "Tải xuống các tệp tuỳ chỉnh"
+
+#: includes/admin/class-zakeke-admin-order.php:64
+msgid "Customization files in processing"
+msgstr "Các tệp tùy chỉnh trong quá trình xử lý"
+
+#: includes/api/class-zakeke-rest-enabled-controller.php:51
+msgid "Product id of the product that became customizable."
+msgstr "Id sản phẩm của sản phẩm trở nên tùy chỉnh."
+
+#: includes/api/class-zakeke-rest-enabled-controller.php:62
+msgid "Product id of the product that is no longer customizable."
+msgstr "Id sản phẩm của sản phẩm không còn tùy chỉnh."
+
+#: includes/api/class-zakeke-rest-enabled-controller.php:75
+msgid "Required to be true, as resource does not support trashing."
+msgstr "Bắt buộc phải đúng, vì tài nguyên không hỗ trợ trashing."
+
+#: includes/api/class-zakeke-rest-enabled-controller.php:94
+#: includes/api/class-zakeke-rest-settings-controller.php:62
+msgid "Sorry, you are not allowed to create resources."
+msgstr "Rất tiếc, bạn không được phép tạo tài nguyên."
+
+#: includes/api/class-zakeke-rest-enabled-controller.php:111
+msgid "Sorry, you are not allowed to delete this resource."
+msgstr "Rất tiếc, bạn không được phép xóa tài nguyên này."
+
+#: includes/api/class-zakeke-rest-enabled-controller.php:191
+msgid "Product id."
+msgstr "ID sản phẩm."
+
+#: includes/api/class-zakeke-rest-settings-controller.php:113
+msgid "Shop currency."
+msgstr "Mua tiền tệ."
+
+#: includes/class-zakeke-cart.php:141 includes/class-zakeke-order.php:74
+msgid "Customization Price"
+msgstr "Giá tùy chỉnh"
+
+#. #-#-#-#-#  zakeke-interactive-product-designer-code.pot (Zakeke Interactive
+#. Product Designer 1.0.8)  #-#-#-#-#
+#. Plugin Name of the plugin/theme
+#: includes/class-zakeke-integration.php:19
+msgid "Zakeke Interactive Product Designer"
+msgstr "Nhà thiết kế sản phẩm tương tác Zakeke"
+
+#: includes/class-zakeke-integration.php:20
+msgid "Integrate Zakeke into WooCommerce. These credentials will be used to allow the integration of Zakeke with your store. By entering your Zakeke credentials your store will be able to communicate with the Zakeke API. Please refer to the <a href=\"https://zakeke.zendesk.com/hc/en-us/sections/360004488294-WooCommerce-">Zakeke documentation</a> if you are unsure how to proceed"
+msgstr "Tích hợp Zakeke vào WooCommerce. Những thông tin này sẽ được sử dụng để cho phép tích hợp Zakeke với cửa hàng của bạn. Bằng cách nhập thông tin xác thực của Zakeke, cửa hàng của bạn sẽ có thể giao tiếp với API Zakeke. Vui lòng tham khảo tài liệu <a href=\"https://zakeke.zendesk.com/hc/en-us/sections/360004488294-WooCommerce-"> Tài liệu của Zakeke </a> nếu bạn không chắc chắn về cách tiến hành"
+
+#: includes/class-zakeke-integration.php:44
+msgid "Zakeke username"
+msgstr "Tên người dùng Zakeke"
+
+#: includes/class-zakeke-integration.php:46
+msgid "Your Zakeke account username. Need a Zakeke account? <a href=\"https://portal.zakeke.com/Admin/Register\" target=\"_blank\">Click here to get one</a>"
+msgstr "Tên đăng nhập tài khoản Zakeke của bạn. Cần một tài khoản Zakeke? <a href=\"https://portal.zakeke.com/Admin/Register\" target=\"_blank\"> Nhấp vào đây để có được một </a>"
+
+#: includes/class-zakeke-integration.php:50
+msgid "Zakeke password"
+msgstr "Mật khẩu Zakeke"
+
+#: includes/class-zakeke-integration.php:52
+msgid "Your Zakeke account password"
+msgstr "Mật khẩu tài khoản Zakeke của bạn"
+
+#: includes/class-zakeke-integration.php:55
+msgid "Force product customization"
+msgstr "Buộc tuỳ biến sản phẩm"
+
+#: includes/class-zakeke-integration.php:58
+msgid "Replace the \"Add to cart\" button with the \"Customize\" button for customizable products"
+msgstr "Thay thế nút \"Thêm vào giỏ hàng\" bằng nút \"Tùy chỉnh\" cho các sản phẩm tùy chỉnh"
+
+#: includes/class-zakeke-integration.php:62
+msgid "Debug Log"
+msgstr "Nhật ký gỡ lỗi"
+
+#: includes/class-zakeke-integration.php:64
+msgid "Enable logging"
+msgstr "Bật ghi nhật ký"
+
+#: includes/class-zakeke-integration.php:66
+msgid "Log events such as API requests"
+msgstr "Đăng nhập các sự kiện như yêu cầu API"
+
+#: includes/class-zakeke-order.php:71
+msgid "Customization"
+msgstr "Tùy chỉnh"
+
+#: includes/class-zakeke-product-page.php:61
+#: includes/class-zakeke-product-page.php:87
+#: includes/class-zakeke-product-page.php:95
+msgid "Customize"
+msgstr "Tùy chỉnh"
+
+#: zakeke.php:91 zakeke.php:99
+msgid "Cheatin&#8217; huh?"
+msgstr "Cheatinâ € ™ huh?"
+
+#. Plugin URI of the plugin/theme
+msgid "https://www.zakeke.com/"
+msgstr "Https://www.zakeke.com/"
+
+#. Author URI of the plugin/theme
+msgid "https://www.zakeke.com"
+msgstr "Https://www.zakeke.com"
+
+#. Author of the plugin/theme
+msgid "Zakeke"
+msgstr "Zakeke"
+
+#: zakeke.php:225
+msgid "View Zakeke documentation"
+msgstr "Xem tài liệu của Zakeke"
+
+#: zakeke.php:226
+msgid "Documentation"
+msgstr "Tài liệu"
+
+#: zakeke.php:227
+msgid "Register to Zakeke"
+msgstr "Đăng ký để Zakeke"
+
+#: zakeke.php:228
+msgid "Register to Zakeke to use the plugin"
+msgstr "Đăng ký vào Zakeke để sử dụng plugin"
+
+#: zakeke.php:246
+msgid "View Zakeke settings"
+msgstr "Xem cài đặt Zakeke"
+
+#: zakeke.php:247
+msgid "Settings"
+msgstr "Cài đặt"
+
+#. Description of the plugin/theme
+msgid "Innovative platform to let your customers to customize products in your e-store. Multi-language, mult-currency, 3D view and print-ready outputs."
+msgstr "Nền tảng sáng tạo để cho phép khách hàng của bạn tùy chỉnh sản phẩm trong cửa hàng điện tử của bạn. Đa ngôn ngữ, đa tiền tệ, xem 3D và đầu ra đã sẵn sàng in."

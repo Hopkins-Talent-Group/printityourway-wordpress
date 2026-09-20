@@ -1,0 +1,154 @@
+# Translation of Zakeke - WooCommerce in Korean
+# This file is distributed under the same license as the Zakeke - WooCommerce package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: +0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: GlotPress/2.3.1\n"
+"Language: ko_KR\n"
+"Project-Id-Version: Zakeke - WooCommerce\n"
+
+#: includes/admin/class-zakeke-admin-order.php:61
+msgid "Download customization files"
+msgstr "사용자 화 파일 다운로드"
+
+#: includes/admin/class-zakeke-admin-order.php:64
+msgid "Customization files in processing"
+msgstr "처리중인 사용자 정의 파일"
+
+#: includes/api/class-zakeke-rest-enabled-controller.php:51
+msgid "Product id of the product that became customizable."
+msgstr "맞춤 설정할 수있는 제품의 제품 ID입니다."
+
+#: includes/api/class-zakeke-rest-enabled-controller.php:62
+msgid "Product id of the product that is no longer customizable."
+msgstr "더 이상 사용자 정의 할 수없는 제품의 제품 ID입니다."
+
+#: includes/api/class-zakeke-rest-enabled-controller.php:75
+msgid "Required to be true, as resource does not support trashing."
+msgstr "자원이 휴지통을 지원하지 않기 때문에 사실이어야합니다."
+
+#: includes/api/class-zakeke-rest-enabled-controller.php:94
+#: includes/api/class-zakeke-rest-settings-controller.php:62
+msgid "Sorry, you are not allowed to create resources."
+msgstr "죄송합니다. 리소스를 만들 수 없습니다."
+
+#: includes/api/class-zakeke-rest-enabled-controller.php:111
+msgid "Sorry, you are not allowed to delete this resource."
+msgstr "죄송합니다.이 리소스를 삭제할 수 없습니다."
+
+#: includes/api/class-zakeke-rest-enabled-controller.php:191
+msgid "Product id."
+msgstr "제품 ID."
+
+#: includes/api/class-zakeke-rest-settings-controller.php:113
+msgid "Shop currency."
+msgstr "쇼핑 통화."
+
+#: includes/class-zakeke-cart.php:141 includes/class-zakeke-order.php:74
+msgid "Customization Price"
+msgstr "맞춤형 가격"
+
+#. #-#-#-#-#  zakeke-interactive-product-designer-code.pot (Zakeke Interactive
+#. Product Designer 1.0.8)  #-#-#-#-#
+#. Plugin Name of the plugin/theme
+#: includes/class-zakeke-integration.php:19
+msgid "Zakeke Interactive Product Designer"
+msgstr "Zakeke Interactive Product Designer"
+
+#: includes/class-zakeke-integration.php:20
+msgid "Integrate Zakeke into WooCommerce. These credentials will be used to allow the integration of Zakeke with your store. By entering your Zakeke credentials your store will be able to communicate with the Zakeke API. Please refer to the <a href=\"https://zakeke.zendesk.com/hc/en-us/sections/360004488294-WooCommerce-">Zakeke documentation</a> if you are unsure how to proceed"
+msgstr "WakeCommerce에 Zakeke를 통합하십시오. 이 자격 증명은 Zakeke와 상점을 통합하는 데 사용됩니다. Zakeke 자격 증명을 입력하면 상점에서 Zakeke API와 통신 할 수 있습니다. 진행 방법을 모르는 경우 <a href=\"https://zakeke.zendesk.com/hc/en-us/sections/360004488294-WooCommerce-"> Zakeke 설명서 </a>를 참조하십시오."
+
+#: includes/class-zakeke-integration.php:44
+msgid "Zakeke username"
+msgstr "Zakeke 사용자 이름"
+
+#: includes/class-zakeke-integration.php:46
+msgid "Your Zakeke account username. Need a Zakeke account? <a href=\"https://portal.zakeke.com/Admin/Register\" target=\"_blank\">Click here to get one</a>"
+msgstr "귀하의 Zakeke 계정 사용자 이름. Zakeke 계정이 필요하십니까? <a href=\"https://portal.zakeke.com/Admin/Register\" target=\"_blank\"> 여기를 클릭하십시오. </a>"
+
+#: includes/class-zakeke-integration.php:50
+msgid "Zakeke password"
+msgstr "자케 케 암호"
+
+#: includes/class-zakeke-integration.php:52
+msgid "Your Zakeke account password"
+msgstr "귀하의 Zakeke 계정 암호"
+
+#: includes/class-zakeke-integration.php:55
+msgid "Force product customization"
+msgstr "제품 사용자 정의 강제 설정"
+
+#: includes/class-zakeke-integration.php:58
+msgid "Replace the \"Add to cart\" button with the \"Customize\" button for customizable products"
+msgstr "맞춤 설정'버튼으로 '장바구니에 담기'버튼을 맞춤형 제품으로 대체하십시오."
+
+#: includes/class-zakeke-integration.php:62
+msgid "Debug Log"
+msgstr "디버그 로그"
+
+#: includes/class-zakeke-integration.php:64
+msgid "Enable logging"
+msgstr "로깅 사용"
+
+#: includes/class-zakeke-integration.php:66
+msgid "Log events such as API requests"
+msgstr "API 요청과 같은 이벤트 기록"
+
+#: includes/class-zakeke-order.php:71
+msgid "Customization"
+msgstr "사용자 정의"
+
+#: includes/class-zakeke-product-page.php:61
+#: includes/class-zakeke-product-page.php:87
+#: includes/class-zakeke-product-page.php:95
+msgid "Customize"
+msgstr "사용자 정의"
+
+#: zakeke.php:91 zakeke.php:99
+msgid "Cheatin&#8217; huh?"
+msgstr "Cheatinâ € ™ 응?"
+
+#. Plugin URI of the plugin/theme
+msgid "https://www.zakeke.com/"
+msgstr "https://www.zakeke.com/"
+
+#. Author URI of the plugin/theme
+msgid "https://www.zakeke.com"
+msgstr "https://www.zakeke.com"
+
+#. Author of the plugin/theme
+msgid "Zakeke"
+msgstr "자케 케"
+
+#: zakeke.php:225
+msgid "View Zakeke documentation"
+msgstr "Zakeke 문서보기"
+
+#: zakeke.php:226
+msgid "Documentation"
+msgstr "선적 서류 비치"
+
+#: zakeke.php:227
+msgid "Register to Zakeke"
+msgstr "자케 케에 등록하기"
+
+#: zakeke.php:228
+msgid "Register to Zakeke to use the plugin"
+msgstr "플러그인을 사용하려면 Zakeke에 등록하십시오."
+
+#: zakeke.php:246
+msgid "View Zakeke settings"
+msgstr "Zakeke 설정보기"
+
+#: zakeke.php:247
+msgid "Settings"
+msgstr "설정"
+
+#. Description of the plugin/theme
+msgid "Innovative platform to let your customers to customize products in your e-store. Multi-language, mult-currency, 3D view and print-ready outputs."
+msgstr "고객이 전자 상점에서 제품을 사용자 정의 할 수있게 해주는 혁신적인 플랫폼. 다중 언어, 다중 통화, 3D보기 및 인쇄 준비 출력."

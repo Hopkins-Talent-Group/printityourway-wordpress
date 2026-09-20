@@ -1,0 +1,154 @@
+# Translation of Zakeke - WooCommerce in Mongolian
+# This file is distributed under the same license as the Zakeke - WooCommerce package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: +0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/2.3.1\n"
+"Language: mn\n"
+"Project-Id-Version: Zakeke - WooCommerce\n"
+
+#: includes/admin/class-zakeke-admin-order.php:61
+msgid "Download customization files"
+msgstr "Өөрчлөлтийн файлуудыг татаж авах"
+
+#: includes/admin/class-zakeke-admin-order.php:64
+msgid "Customization files in processing"
+msgstr "Боловсруулалтад тохируулах файлууд"
+
+#: includes/api/class-zakeke-rest-enabled-controller.php:51
+msgid "Product id of the product that became customizable."
+msgstr "Бүтээгдэхүүний ID-ыг өөрчлөх боломжтой болсон."
+
+#: includes/api/class-zakeke-rest-enabled-controller.php:62
+msgid "Product id of the product that is no longer customizable."
+msgstr "Бүтээгдэхүүний нэрийг өөрчилж болохгүй болсон бүтээгдэхүүн."
+
+#: includes/api/class-zakeke-rest-enabled-controller.php:75
+msgid "Required to be true, as resource does not support trashing."
+msgstr "Нөөц нь хог хаягдлыг дэмждэггүй тул үнэн байх шаардлагатай."
+
+#: includes/api/class-zakeke-rest-enabled-controller.php:94
+#: includes/api/class-zakeke-rest-settings-controller.php:62
+msgid "Sorry, you are not allowed to create resources."
+msgstr "Уучлаарай, та нөөцөө үүсгэхийг зөвшөөрөхгүй."
+
+#: includes/api/class-zakeke-rest-enabled-controller.php:111
+msgid "Sorry, you are not allowed to delete this resource."
+msgstr "Уучлаарай, та энэ нөөцийг устгах эрхгүй байна."
+
+#: includes/api/class-zakeke-rest-enabled-controller.php:191
+msgid "Product id."
+msgstr "Бүтээгдэхүүний дугаар"
+
+#: includes/api/class-zakeke-rest-settings-controller.php:113
+msgid "Shop currency."
+msgstr "Валют худалдан авах."
+
+#: includes/class-zakeke-cart.php:141 includes/class-zakeke-order.php:74
+msgid "Customization Price"
+msgstr "Өөрчлөн тохируулсан үнэ"
+
+#. #-#-#-#-#  zakeke-interactive-product-designer-code.pot (Zakeke Interactive
+#. Product Designer 1.0.8)  #-#-#-#-#
+#. Plugin Name of the plugin/theme
+#: includes/class-zakeke-integration.php:19
+msgid "Zakeke Interactive Product Designer"
+msgstr "Zakeke Интерактив Бүтээгдэхүүний Дизайнер"
+
+#: includes/class-zakeke-integration.php:20
+msgid "Integrate Zakeke into WooCommerce. These credentials will be used to allow the integration of Zakeke with your store. By entering your Zakeke credentials your store will be able to communicate with the Zakeke API. Please refer to the <a href=\"https://zakeke.zendesk.com/hc/en-us/sections/360004488294-WooCommerce-">Zakeke documentation</a> if you are unsure how to proceed"
+msgstr "Zakeke-г WooCommerce-д нэгтгэх. Эдгээр үнэмлэх нь таны дэлгүүрт Zakeke-г нэгтгэх боломжийг олгоно. Таны Zakeke итгэмжлэлийг оруулснаар таны дэлгүүр Zakeke API-тэй холбогдож чадна. Хэрэв та хэрхэн үргэлжлүүлэхээ мэдэхгүй байгаа бол <a href=\"https://zakeke.zendesk.com/hc/en-us/sections/360004488294-WooCommerce-"> Zakeke баримт бичиг </a> -ээс лавлана уу."
+
+#: includes/class-zakeke-integration.php:44
+msgid "Zakeke username"
+msgstr "Zakeke хэрэглэгчийн нэр"
+
+#: includes/class-zakeke-integration.php:46
+msgid "Your Zakeke account username. Need a Zakeke account? <a href=\"https://portal.zakeke.com/Admin/Register\" target=\"_blank\">Click here to get one</a>"
+msgstr "Таны Zakeke хэрэглэгчийн нэрийг бүртгэдэг. Zakeke данс хэрэгтэй юу? <a href=\"https://portal.zakeke.com/Admin/Register\" target=\"_blank\"> энд дарна уу </a>"
+
+#: includes/class-zakeke-integration.php:50
+msgid "Zakeke password"
+msgstr "Zakeke нууц үг"
+
+#: includes/class-zakeke-integration.php:52
+msgid "Your Zakeke account password"
+msgstr "Таны Zakeke дансны нууц үг"
+
+#: includes/class-zakeke-integration.php:55
+msgid "Force product customization"
+msgstr "Бүтээгдэхүүний өөрчлөх хүч"
+
+#: includes/class-zakeke-integration.php:58
+msgid "Replace the \"Add to cart\" button with the \"Customize\" button for customizable products"
+msgstr "\"Өөртөө сагсанд нэмэх\" товчлуурыг \"Customize\" товчлуураар өөрчилж болно"
+
+#: includes/class-zakeke-integration.php:62
+msgid "Debug Log"
+msgstr "Дебаг бүртгэл"
+
+#: includes/class-zakeke-integration.php:64
+msgid "Enable logging"
+msgstr "Бүртгэлийг идэвхжүүлнэ"
+
+#: includes/class-zakeke-integration.php:66
+msgid "Log events such as API requests"
+msgstr "API хүсэлт гэх мэт бүртгэлийн үйл явдлууд"
+
+#: includes/class-zakeke-order.php:71
+msgid "Customization"
+msgstr "Өөрчлөлт"
+
+#: includes/class-zakeke-product-page.php:61
+#: includes/class-zakeke-product-page.php:87
+#: includes/class-zakeke-product-page.php:95
+msgid "Customize"
+msgstr "Тохируулах"
+
+#: zakeke.php:91 zakeke.php:99
+msgid "Cheatin&#8217; huh?"
+msgstr "Чацина?"
+
+#. Plugin URI of the plugin/theme
+msgid "https://www.zakeke.com/"
+msgstr "Https://www.zakeke.com/"
+
+#. Author URI of the plugin/theme
+msgid "https://www.zakeke.com"
+msgstr "Https://www.zakeke.com"
+
+#. Author of the plugin/theme
+msgid "Zakeke"
+msgstr "Закеке"
+
+#: zakeke.php:225
+msgid "View Zakeke documentation"
+msgstr "Zakeke баримтыг үзэх"
+
+#: zakeke.php:226
+msgid "Documentation"
+msgstr "Баримт бичиг"
+
+#: zakeke.php:227
+msgid "Register to Zakeke"
+msgstr "Zakeke дээр бүртгүүлнэ үү"
+
+#: zakeke.php:228
+msgid "Register to Zakeke to use the plugin"
+msgstr "Закектэд бүртгүүлэхийн тулд бүртгүүлэх"
+
+#: zakeke.php:246
+msgid "View Zakeke settings"
+msgstr "Zakeke тохиргоог харах"
+
+#: zakeke.php:247
+msgid "Settings"
+msgstr "Тохиргоо"
+
+#. Description of the plugin/theme
+msgid "Innovative platform to let your customers to customize products in your e-store. Multi-language, mult-currency, 3D view and print-ready outputs."
+msgstr "Таны дэлгүүрийн хэрэглэгчдэд бүтээгдэхүүнээ өөрчлөх боломжтой шинэлэг платформ. Олон хэл, олон валют, 3D харагдац, хэвлэх-бэлэн бүтээгдэхүүн."
